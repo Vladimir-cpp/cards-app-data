@@ -1,0 +1,17 @@
+{
+  "version": 6,
+  "plugins": [
+    {
+      "name": "articles",
+      "url": "plugins/articles.py",
+      "version": 1,
+      "sha256": "83663801e79e8f9853e86deab471b13b45ec64327d08780bdf199a1ac9610f71"
+    },
+    {
+      "name": "verbs",
+      "url": "plugins/verbs.py",
+      "version": 1,
+      "sha256": "62f9d080fdbfd86b82b0a56714ec7de7e94dba53fc5bb67191b764c81dcd0186"
+    }
+  ]
+}
