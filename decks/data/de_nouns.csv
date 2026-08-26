@@ -296,7 +296,6 @@ de:zeitung:_:genus,zeitung,Zeitung,die,газета
 de:zimmer:_:genus,zimmer,Zimmer,das,комната
 de:zug:_:genus,zug,Zug,der,поезд
 de:abendessen:_:genus,abendessen,Abendessen,das,ужин
-de:alltag:_:genus,alltag,Alltag,der,будний день
 de:ampel:_:genus,ampel,Ampel,die,светофор
 de:antrag:_:genus,antrag,Antrag,der,предложение
 de:apotheke:_:genus,apotheke,Apotheke,die,аптека
@@ -307,43 +306,42 @@ de:besprechung:_:genus,besprechung,Besprechung,die,обсуждение
 de:blut:_:genus,blut,Blut,das,кровь
 de:boden:_:genus,boden,Boden,der,земля
 de:bruecke:_:genus,bruecke,Brücke,die,мост
-de:buero:_:genus,buero,Büro,das,бюро
+de:buero:_:genus,buero,Büro,das,офис
 de:cent:_:genus,cent,Cent,der,цент
 de:decke:_:genus,decke,Decke,die,потолок
 de:erkaeltung:_:genus,erkaeltung,Erkältung,die,простуда
 de:fahrplan:_:genus,fahrplan,Fahrplan,der,расписание
 de:feiertag:_:genus,feiertag,Feiertag,der,праздник
 de:finger:_:genus,finger,Finger,der,палец на руке
-de:flur:_:genus,flur,Flur,der,коридор
 de:fruehling:_:genus,fruehling,Frühling,der,весна
 de:fuehrerschein:_:genus,fuehrerschein,Führerschein,der,водительское удостоверение
 de:gebuehr:_:genus,gebuehr,Gebühr,die,плата
 de:geburtsdatum:_:genus,geburtsdatum,Geburtsdatum,das,дата рождения
-de:geldautomat:_:genus,geldautomat,Geldautomat,der,
+de:geldautomat:_:genus,geldautomat,Geldautomat,der,банкомат
 de:gesundheit:_:genus,gesundheit,Gesundheit,die,здоровье
 de:gramm:_:genus,gramm,Gramm,das,грамм
 de:grippe:_:genus,grippe,Grippe,die,грипп
 de:hals:_:genus,hals,Hals,der,шея
 de:haut:_:genus,haut,Haut,die,кожа
 de:herbst:_:genus,herbst,Herbst,der,осень
-de:herz:_:genus,herz,Herz,das,сердце животных как пища
+de:herz:_:genus,herz,Herz,das,сердце
 de:husten-noun:_:genus,husten-noun,Husten,der,кашель
 de:jahreszeit:_:genus,jahreszeit,Jahreszeit,die,время года
 de:kaese:_:genus,kaese,Käse,der,сыр
-de:keller:_:genus,keller,Keller,der,погреб
-de:kilo:_:genus,kilo,Kilo,das,кило
+de:keller:_:genus,keller,Keller,der,подвал
+de:kilo:_:genus,kilo,Kilo,das,килограмм
 de:kinderzimmer:_:genus,kinderzimmer,Kinderzimmer,das,детская комната
 de:knie:_:genus,knie,Knie,das,колено
 de:koerper:_:genus,koerper,Körper,der,тело
 de:krankenhaus:_:genus,krankenhaus,Krankenhaus,das,больница
 de:krankheit:_:genus,krankheit,Krankheit,die,болезнь
 de:kreditkarte:_:genus,kreditkarte,Kreditkarte,die,кредитная карточка
-de:kreuzung:_:genus,kreuzung,Kreuzung,die,перекрест
+de:kreuzung:_:genus,kreuzung,Kreuzung,die,перекресток
 de:liter:_:genus,liter,Liter,der,литр
 de:lohn:_:genus,lohn,Lohn,der,заработная плата
 de:markt:_:genus,markt,Markt,der,рынок
-de:medikament:_:genus,medikament,Medikament,das,
-de:mittag:_:genus,mittag,Mittag,der,обед
+de:medikament:_:genus,medikament,Medikament,das,медикамент
+de:mittag:_:genus,mittag,Mittag,der,полдень
 de:mittagessen:_:genus,mittagessen,Mittagessen,das,обед
 de:motorrad:_:genus,motorrad,Motorrad,das,мотоцикл
 de:muenze:_:genus,muenze,Münze,die,монета
@@ -357,13 +355,12 @@ de:ohr:_:genus,ohr,Ohr,das,ухо
 de:onkel:_:genus,onkel,Onkel,der,дядя
 de:packung:_:genus,packung,Packung,die,упаковка
 de:parkplatz:_:genus,parkplatz,Parkplatz,der,парковка
-de:personalausweis:_:genus,personalausweis,Personalausweis,der,
-de:regal:_:genus,regal,Regal,das,шкаф полка для книг
+de:regal:_:genus,regal,Regal,das,полка
 de:rezept:_:genus,rezept,Rezept,das,рецепт
 de:richtung:_:genus,richtung,Richtung,die,направление
 de:ruecken:_:genus,ruecken,Rücken,der,спина
 de:schein:_:genus,schein,Schein,der,свет
-de:schiff:_:genus,schiff,Schiff,das,судно
+de:schiff:_:genus,schiff,Schiff,das,корабль
 de:schlafzimmer:_:genus,schlafzimmer,Schlafzimmer,das,спальня
 de:schmerz:_:genus,schmerz,Schmerz,der,боль
 de:schnee:_:genus,schnee,Schnee,der,снег
@@ -381,12 +378,10 @@ de:temperatur:_:genus,temperatur,Temperatur,die,температура
 de:teppich:_:genus,teppich,Teppich,der,ковёр
 de:theater:_:genus,theater,Theater,das,театр
 de:ueberweisung:_:genus,ueberweisung,Überweisung,die,перевод
-de:uhrzeit:_:genus,uhrzeit,Uhrzeit,die,время
 de:universitaet:_:genus,universitaet,Universität,die,университет
 de:visum:_:genus,visum,Visum,das,виза
-de:vormittag:_:genus,vormittag,Vormittag,der,дополуденное время
+de:vormittag:_:genus,vormittag,Vormittag,der,первая половина дня
 de:wand:_:genus,wand,Wand,die,стена
-de:wechselgeld:_:genus,wechselgeld,Wechselgeld,das,размена о деньгах
 de:weg-noun:_:genus,weg-noun,Weg,der,дорога
 de:winter:_:genus,winter,Winter,der,зима
 de:wochenende:_:genus,wochenende,Wochenende,das,выходные
@@ -402,16 +397,15 @@ de:feierabend:_:genus,feierabend,Feierabend,der,конец рабочего дн
 de:freitag:_:genus,freitag,Freitag,der,пятница
 de:jahr:_:genus,jahr,Jahr,das,год
 de:kalender:_:genus,kalender,Kalender,der,календарь
-de:minute:_:genus,minute,Minute,die,минута отрезок времени
+de:minute:_:genus,minute,Minute,die,минута
 de:mitternacht:_:genus,mitternacht,Mitternacht,die,полночь
 de:mittwoch:_:genus,mittwoch,Mittwoch,der,среда
 de:monat:_:genus,monat,Monat,der,месяц
 de:montag:_:genus,montag,Montag,der,понедельник
 de:morgen-noun:_:genus,morgen-noun,Morgen,der,утро
 de:samstag:_:genus,samstag,Samstag,der,суббота
-de:sekunde:_:genus,sekunde,Sekunde,die,секунда [1]
+de:sekunde:_:genus,sekunde,Sekunde,die,секунда
 de:sonntag:_:genus,sonntag,Sonntag,der,воскресенье
 de:tag:_:genus,tag,Tag,der,день
 de:wecker:_:genus,wecker,Wecker,der,будильник
 de:woche:_:genus,woche,Woche,die,неделя
-de:wochentag:_:genus,wochentag,Wochentag,der,будничный день

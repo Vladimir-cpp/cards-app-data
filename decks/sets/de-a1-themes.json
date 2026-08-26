@@ -154,5 +154,13 @@
     "ziehen",
     "zucker"
   ],
-  "wanted": []
+  "wanted": [],
+  "exclude": {
+    "alltag": "без пояснения",
+    "flur": "без пояснения",
+    "personalausweis": "без пояснения",
+    "uhrzeit": "без пояснения",
+    "wechselgeld": "без пояснения",
+    "wochentag": "без пояснения"
+  }
 }
