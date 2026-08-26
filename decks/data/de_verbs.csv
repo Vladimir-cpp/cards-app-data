@@ -308,11 +308,11 @@ de:gewinnen:praes.2sg:produce,gewinnen,gewinnen,du,gewinnst,выигрывать
 de:gewinnen:praes.3sg:produce,gewinnen,gewinnen,er,gewinnt,выигрывать
 de:gewinnen:praes.1pl:produce,gewinnen,gewinnen,wir,gewinnen,выигрывать
 de:gewinnen:praes.2pl:produce,gewinnen,gewinnen,ihr,gewinnt,выигрывать
-de:glauben:praes.1sg:produce,glauben,glauben,ich,glaube,полагать
-de:glauben:praes.2sg:produce,glauben,glauben,du,glaubst,полагать
-de:glauben:praes.3sg:produce,glauben,glauben,er,glaubt,полагать
-de:glauben:praes.1pl:produce,glauben,glauben,wir,glauben,полагать
-de:glauben:praes.2pl:produce,glauben,glauben,ihr,glaubt,полагать
+de:glauben:praes.1sg:produce,glauben,glauben,ich,glaube,верить
+de:glauben:praes.2sg:produce,glauben,glauben,du,glaubst,верить
+de:glauben:praes.3sg:produce,glauben,glauben,er,glaubt,верить
+de:glauben:praes.1pl:produce,glauben,glauben,wir,glauben,верить
+de:glauben:praes.2pl:produce,glauben,glauben,ihr,glaubt,верить
 de:gratulieren:praes.1sg:produce,gratulieren,gratulieren,ich,gratuliere,поздравлять
 de:gratulieren:praes.2sg:produce,gratulieren,gratulieren,du,gratulierst,поздравлять
 de:gratulieren:praes.3sg:produce,gratulieren,gratulieren,er,gratuliert,поздравлять
@@ -611,11 +611,11 @@ de:ueberweisen:praes.2sg:produce,ueberweisen,überweisen,du,überweist,пере�
 de:ueberweisen:praes.3sg:produce,ueberweisen,überweisen,er,überweist,переводить
 de:ueberweisen:praes.1pl:produce,ueberweisen,überweisen,wir,überweisen,переводить
 de:ueberweisen:praes.2pl:produce,ueberweisen,überweisen,ihr,überweist,переводить
-de:umziehen:praes.1sg:produce,umziehen,umziehen,ich,ziehe um,переезжать
-de:umziehen:praes.2sg:produce,umziehen,umziehen,du,ziehst um,переезжать
-de:umziehen:praes.3sg:produce,umziehen,umziehen,er,zieht um,переезжать
-de:umziehen:praes.1pl:produce,umziehen,umziehen,wir,ziehen um,переезжать
-de:umziehen:praes.2pl:produce,umziehen,umziehen,ihr,zieht um,переезжать
+de:umziehen:praes.1sg:produce,umziehen,umziehen,ich,ziehe um,переодеваться
+de:umziehen:praes.2sg:produce,umziehen,umziehen,du,ziehst um,переодеваться
+de:umziehen:praes.3sg:produce,umziehen,umziehen,er,zieht um,переодеваться
+de:umziehen:praes.1pl:produce,umziehen,umziehen,wir,ziehen um,переодеваться
+de:umziehen:praes.2pl:produce,umziehen,umziehen,ihr,zieht um,переодеваться
 de:unterschreiben:praes.1sg:produce,unterschreiben,unterschreiben,ich,unterschreibe,подписывать
 de:unterschreiben:praes.2sg:produce,unterschreiben,unterschreiben,du,unterschreibst,подписывать
 de:unterschreiben:praes.3sg:produce,unterschreiben,unterschreiben,er,unterschreibt,подписывать
@@ -729,11 +729,11 @@ de:putzen:praes.2sg:produce,putzen,putzen,du,putzt,чистить
 de:putzen:praes.3sg:produce,putzen,putzen,er,putzt,чистить
 de:putzen:praes.1pl:produce,putzen,putzen,wir,putzen,чистить
 de:putzen:praes.2pl:produce,putzen,putzen,ihr,putzt,чистить
-de:setzen:praes.1sg:produce,setzen,setzen,ich,setze,сажать
-de:setzen:praes.2sg:produce,setzen,setzen,du,setzt,сажать
-de:setzen:praes.3sg:produce,setzen,setzen,er,setzt,сажать
-de:setzen:praes.1pl:produce,setzen,setzen,wir,setzen,сажать
-de:setzen:praes.2pl:produce,setzen,setzen,ihr,setzt,сажать
+de:setzen:praes.1sg:produce,setzen,setzen,ich,setze,садиться
+de:setzen:praes.2sg:produce,setzen,setzen,du,setzt,садиться
+de:setzen:praes.3sg:produce,setzen,setzen,er,setzt,садиться
+de:setzen:praes.1pl:produce,setzen,setzen,wir,setzen,садиться
+de:setzen:praes.2pl:produce,setzen,setzen,ihr,setzt,садиться
 de:sparen:praes.1sg:produce,sparen,sparen,ich,spare,экономить
 de:sparen:praes.2sg:produce,sparen,sparen,du,sparst,экономить
 de:sparen:praes.3sg:produce,sparen,sparen,er,spart,экономить
@@ -769,3 +769,18 @@ de:ziehen:praes.2sg:produce,ziehen,ziehen,du,ziehst,тянуть
 de:ziehen:praes.3sg:produce,ziehen,ziehen,er,zieht,тянуть
 de:ziehen:praes.1pl:produce,ziehen,ziehen,wir,ziehen,тянуть
 de:ziehen:praes.2pl:produce,ziehen,ziehen,ihr,zieht,тянуть
+de:ausruhen:praes.1sg:produce,ausruhen,ausruhen,ich,ruhe aus,отдыхать
+de:ausruhen:praes.2sg:produce,ausruhen,ausruhen,du,ruhst aus,отдыхать
+de:ausruhen:praes.3sg:produce,ausruhen,ausruhen,er,ruht aus,отдыхать
+de:ausruhen:praes.1pl:produce,ausruhen,ausruhen,wir,ruhen aus,отдыхать
+de:ausruhen:praes.2pl:produce,ausruhen,ausruhen,ihr,ruht aus,отдыхать
+de:einschlafen:praes.1sg:produce,einschlafen,einschlafen,ich,schlafe ein,засыпать
+de:einschlafen:praes.2sg:produce,einschlafen,einschlafen,du,schläfst ein,засыпать
+de:einschlafen:praes.3sg:produce,einschlafen,einschlafen,er,schläft ein,засыпать
+de:einschlafen:praes.1pl:produce,einschlafen,einschlafen,wir,schlafen ein,засыпать
+de:einschlafen:praes.2pl:produce,einschlafen,einschlafen,ihr,schlaft ein,засыпать
+de:spazieren:praes.1sg:produce,spazieren,spazieren,ich,spaziere,расхаживать
+de:spazieren:praes.2sg:produce,spazieren,spazieren,du,spazierst,расхаживать
+de:spazieren:praes.3sg:produce,spazieren,spazieren,er,spaziert,расхаживать
+de:spazieren:praes.1pl:produce,spazieren,spazieren,wir,spazieren,расхаживать
+de:spazieren:praes.2pl:produce,spazieren,spazieren,ihr,spaziert,расхаживать

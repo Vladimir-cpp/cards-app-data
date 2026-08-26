@@ -343,7 +343,7 @@ de:liter:_:genus,liter,Liter,der,литр
 de:lohn:_:genus,lohn,Lohn,der,заработная плата
 de:markt:_:genus,markt,Markt,der,рынок
 de:medikament:_:genus,medikament,Medikament,das,
-de:mittag:_:genus,mittag,Mittag,der,полдень
+de:mittag:_:genus,mittag,Mittag,der,обед
 de:mittagessen:_:genus,mittagessen,Mittagessen,das,обед
 de:motorrad:_:genus,motorrad,Motorrad,das,мотоцикл
 de:muenze:_:genus,muenze,Münze,die,монета
@@ -395,3 +395,23 @@ de:wolke:_:genus,wolke,Wolke,die,облако
 de:wurst:_:genus,wurst,Wurst,die,колбаса
 de:zahn:_:genus,zahn,Zahn,der,зуб
 de:zucker:_:genus,zucker,Zucker,der,сахар
+de:abend:_:genus,abend,Abend,der,вечер
+de:dienstag:_:genus,dienstag,Dienstag,der,вторник
+de:donnerstag:_:genus,donnerstag,Donnerstag,der,четверг
+de:feierabend:_:genus,feierabend,Feierabend,der,конец рабочего дня
+de:freitag:_:genus,freitag,Freitag,der,пятница
+de:jahr:_:genus,jahr,Jahr,das,год
+de:kalender:_:genus,kalender,Kalender,der,календарь
+de:minute:_:genus,minute,Minute,die,минута отрезок времени
+de:mitternacht:_:genus,mitternacht,Mitternacht,die,полночь
+de:mittwoch:_:genus,mittwoch,Mittwoch,der,среда
+de:monat:_:genus,monat,Monat,der,месяц
+de:montag:_:genus,montag,Montag,der,понедельник
+de:morgen-noun:_:genus,morgen-noun,Morgen,der,утро
+de:samstag:_:genus,samstag,Samstag,der,суббота
+de:sekunde:_:genus,sekunde,Sekunde,die,секунда [1]
+de:sonntag:_:genus,sonntag,Sonntag,der,воскресенье
+de:tag:_:genus,tag,Tag,der,день
+de:wecker:_:genus,wecker,Wecker,der,будильник
+de:woche:_:genus,woche,Woche,die,неделя
+de:wochentag:_:genus,wochentag,Wochentag,der,будничный день

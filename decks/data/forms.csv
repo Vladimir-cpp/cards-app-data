@@ -32090,3 +32090,594 @@ kosten-noun,def.nom.pl,Kosten,kaikki-en,CC BY-SA 4.0
 kosten-noun,def.gen.pl,Kosten,kaikki-en,CC BY-SA 4.0
 kosten-noun,def.dat.pl,Kosten,kaikki-en,CC BY-SA 4.0
 kosten-noun,def.akk.pl,Kosten,kaikki-en,CC BY-SA 4.0
+samstag,gen,Samstages,kaikki-en,CC BY-SA 4.0
+samstag,gen,Samstags,kaikki-en,CC BY-SA 4.0
+samstag,pl,Samstage,kaikki-en,CC BY-SA 4.0
+samstag,nom.sg,Samstag,kaikki-en,CC BY-SA 4.0
+samstag,def.nom.pl,Samstage,kaikki-en,CC BY-SA 4.0
+samstag,gen.sg,Samstages,kaikki-en,CC BY-SA 4.0
+samstag,gen.sg,Samstags,kaikki-en,CC BY-SA 4.0
+samstag,def.gen.pl,Samstage,kaikki-en,CC BY-SA 4.0
+samstag,dat.sg,Samstag,kaikki-en,CC BY-SA 4.0
+samstag,dat.sg,Samstage,kaikki-en,CC BY-SA 4.0
+samstag,def.dat.pl,Samstagen,kaikki-en,CC BY-SA 4.0
+samstag,akk.sg,Samstag,kaikki-en,CC BY-SA 4.0
+samstag,def.akk.pl,Samstage,kaikki-en,CC BY-SA 4.0
+sekunde,gen,Sekunde,kaikki-en,CC BY-SA 4.0
+sekunde,pl,Sekunden,kaikki-en,CC BY-SA 4.0
+sekunde,nom.sg,Sekunde,kaikki-en,CC BY-SA 4.0
+sekunde,def.nom.pl,Sekunden,kaikki-en,CC BY-SA 4.0
+sekunde,gen.sg,Sekunde,kaikki-en,CC BY-SA 4.0
+sekunde,def.gen.pl,Sekunden,kaikki-en,CC BY-SA 4.0
+sekunde,dat.sg,Sekunde,kaikki-en,CC BY-SA 4.0
+sekunde,def.dat.pl,Sekunden,kaikki-en,CC BY-SA 4.0
+sekunde,akk.sg,Sekunde,kaikki-en,CC BY-SA 4.0
+sekunde,def.akk.pl,Sekunden,kaikki-en,CC BY-SA 4.0
+dienstag,gen,Dienstages,kaikki-en,CC BY-SA 4.0
+dienstag,gen,Dienstags,kaikki-en,CC BY-SA 4.0
+dienstag,pl,Dienstage,kaikki-en,CC BY-SA 4.0
+dienstag,nom.sg,Dienstag,kaikki-en,CC BY-SA 4.0
+dienstag,def.nom.pl,Dienstage,kaikki-en,CC BY-SA 4.0
+dienstag,gen.sg,Dienstages,kaikki-en,CC BY-SA 4.0
+dienstag,gen.sg,Dienstags,kaikki-en,CC BY-SA 4.0
+dienstag,def.gen.pl,Dienstage,kaikki-en,CC BY-SA 4.0
+dienstag,dat.sg,Dienstag,kaikki-en,CC BY-SA 4.0
+dienstag,dat.sg,Dienstage,kaikki-en,CC BY-SA 4.0
+dienstag,def.dat.pl,Dienstagen,kaikki-en,CC BY-SA 4.0
+dienstag,akk.sg,Dienstag,kaikki-en,CC BY-SA 4.0
+dienstag,def.akk.pl,Dienstage,kaikki-en,CC BY-SA 4.0
+mittwoch,gen,Mittwochs,kaikki-en,CC BY-SA 4.0
+mittwoch,pl,Mittwoche,kaikki-en,CC BY-SA 4.0
+mittwoch,nom.sg,Mittwoch,kaikki-en,CC BY-SA 4.0
+mittwoch,def.nom.pl,Mittwoche,kaikki-en,CC BY-SA 4.0
+mittwoch,gen.sg,Mittwochs,kaikki-en,CC BY-SA 4.0
+mittwoch,def.gen.pl,Mittwoche,kaikki-en,CC BY-SA 4.0
+mittwoch,dat.sg,Mittwoch,kaikki-en,CC BY-SA 4.0
+mittwoch,def.dat.pl,Mittwochen,kaikki-en,CC BY-SA 4.0
+mittwoch,akk.sg,Mittwoch,kaikki-en,CC BY-SA 4.0
+mittwoch,def.akk.pl,Mittwoche,kaikki-en,CC BY-SA 4.0
+donnerstag,gen,Donnerstages,kaikki-en,CC BY-SA 4.0
+donnerstag,gen,Donnerstags,kaikki-en,CC BY-SA 4.0
+donnerstag,pl,Donnerstage,kaikki-en,CC BY-SA 4.0
+donnerstag,nom.sg,Donnerstag,kaikki-en,CC BY-SA 4.0
+donnerstag,def.nom.pl,Donnerstage,kaikki-en,CC BY-SA 4.0
+donnerstag,gen.sg,Donnerstages,kaikki-en,CC BY-SA 4.0
+donnerstag,gen.sg,Donnerstags,kaikki-en,CC BY-SA 4.0
+donnerstag,def.gen.pl,Donnerstage,kaikki-en,CC BY-SA 4.0
+donnerstag,dat.sg,Donnerstag,kaikki-en,CC BY-SA 4.0
+donnerstag,dat.sg,Donnerstage,kaikki-en,CC BY-SA 4.0
+donnerstag,def.dat.pl,Donnerstagen,kaikki-en,CC BY-SA 4.0
+donnerstag,akk.sg,Donnerstag,kaikki-en,CC BY-SA 4.0
+donnerstag,def.akk.pl,Donnerstage,kaikki-en,CC BY-SA 4.0
+freitag,gen,Freitages,kaikki-en,CC BY-SA 4.0
+freitag,gen,Freitags,kaikki-en,CC BY-SA 4.0
+freitag,pl,Freitage,kaikki-en,CC BY-SA 4.0
+freitag,nom.sg,Freitag,kaikki-en,CC BY-SA 4.0
+freitag,def.nom.pl,Freitage,kaikki-en,CC BY-SA 4.0
+freitag,gen.sg,Freitages,kaikki-en,CC BY-SA 4.0
+freitag,gen.sg,Freitags,kaikki-en,CC BY-SA 4.0
+freitag,def.gen.pl,Freitage,kaikki-en,CC BY-SA 4.0
+freitag,dat.sg,Freitag,kaikki-en,CC BY-SA 4.0
+freitag,dat.sg,Freitage,kaikki-en,CC BY-SA 4.0
+freitag,def.dat.pl,Freitagen,kaikki-en,CC BY-SA 4.0
+freitag,akk.sg,Freitag,kaikki-en,CC BY-SA 4.0
+freitag,def.akk.pl,Freitage,kaikki-en,CC BY-SA 4.0
+montag,gen,Montages,kaikki-en,CC BY-SA 4.0
+montag,gen,Montags,kaikki-en,CC BY-SA 4.0
+montag,pl,Montage,kaikki-en,CC BY-SA 4.0
+montag,nom.sg,Montag,kaikki-en,CC BY-SA 4.0
+montag,def.nom.pl,Montage,kaikki-en,CC BY-SA 4.0
+montag,gen.sg,Montages,kaikki-en,CC BY-SA 4.0
+montag,gen.sg,Montags,kaikki-en,CC BY-SA 4.0
+montag,def.gen.pl,Montage,kaikki-en,CC BY-SA 4.0
+montag,dat.sg,Montag,kaikki-en,CC BY-SA 4.0
+montag,dat.sg,Montage,kaikki-en,CC BY-SA 4.0
+montag,def.dat.pl,Montagen,kaikki-en,CC BY-SA 4.0
+montag,akk.sg,Montag,kaikki-en,CC BY-SA 4.0
+montag,def.akk.pl,Montage,kaikki-en,CC BY-SA 4.0
+abend,gen,Abends,kaikki-en,CC BY-SA 4.0
+abend,pl,Abende,kaikki-en,CC BY-SA 4.0
+abend,nom.sg,Abend,kaikki-en,CC BY-SA 4.0
+abend,def.nom.pl,Abende,kaikki-en,CC BY-SA 4.0
+abend,gen.sg,Abends,kaikki-en,CC BY-SA 4.0
+abend,def.gen.pl,Abende,kaikki-en,CC BY-SA 4.0
+abend,dat.sg,Abend,kaikki-en,CC BY-SA 4.0
+abend,def.dat.pl,Abenden,kaikki-en,CC BY-SA 4.0
+abend,akk.sg,Abend,kaikki-en,CC BY-SA 4.0
+abend,def.akk.pl,Abende,kaikki-en,CC BY-SA 4.0
+minute,gen,Minute,kaikki-en,CC BY-SA 4.0
+minute,pl,Minuten,kaikki-en,CC BY-SA 4.0
+minute,nom.sg,Minute,kaikki-en,CC BY-SA 4.0
+minute,def.nom.pl,Minuten,kaikki-en,CC BY-SA 4.0
+minute,gen.sg,Minute,kaikki-en,CC BY-SA 4.0
+minute,def.gen.pl,Minuten,kaikki-en,CC BY-SA 4.0
+minute,dat.sg,Minute,kaikki-en,CC BY-SA 4.0
+minute,def.dat.pl,Minuten,kaikki-en,CC BY-SA 4.0
+minute,akk.sg,Minute,kaikki-en,CC BY-SA 4.0
+minute,def.akk.pl,Minuten,kaikki-en,CC BY-SA 4.0
+tag,gen,Tages,kaikki-en,CC BY-SA 4.0
+tag,gen,Tags,kaikki-en,CC BY-SA 4.0
+tag,pl,Tage,kaikki-en,CC BY-SA 4.0
+tag,nom.sg,Tag,kaikki-en,CC BY-SA 4.0
+tag,def.nom.pl,Tage,kaikki-en,CC BY-SA 4.0
+tag,gen.sg,Tages,kaikki-en,CC BY-SA 4.0
+tag,gen.sg,Tags,kaikki-en,CC BY-SA 4.0
+tag,def.gen.pl,Tage,kaikki-en,CC BY-SA 4.0
+tag,dat.sg,Tag,kaikki-en,CC BY-SA 4.0
+tag,dat.sg,Tage,kaikki-en,CC BY-SA 4.0
+tag,def.dat.pl,Tagen,kaikki-en,CC BY-SA 4.0
+tag,akk.sg,Tag,kaikki-en,CC BY-SA 4.0
+tag,def.akk.pl,Tage,kaikki-en,CC BY-SA 4.0
+tag,pl,Tags,kaikki-en,CC BY-SA 4.0
+jahr,gen,Jahres,kaikki-en,CC BY-SA 4.0
+jahr,gen,Jahrs,kaikki-en,CC BY-SA 4.0
+jahr,pl,Jahre,kaikki-en,CC BY-SA 4.0
+jahr,pl,Jahr,kaikki-en,CC BY-SA 4.0
+jahr,nom.sg,Jahr,kaikki-en,CC BY-SA 4.0
+jahr,def.nom.pl,Jahre,kaikki-en,CC BY-SA 4.0
+jahr,def.nom.pl,Jahr,kaikki-en,CC BY-SA 4.0
+jahr,gen.sg,Jahres,kaikki-en,CC BY-SA 4.0
+jahr,gen.sg,Jahrs,kaikki-en,CC BY-SA 4.0
+jahr,def.gen.pl,Jahre,kaikki-en,CC BY-SA 4.0
+jahr,def.gen.pl,Jahr,kaikki-en,CC BY-SA 4.0
+jahr,dat.sg,Jahr,kaikki-en,CC BY-SA 4.0
+jahr,dat.sg,Jahre,kaikki-en,CC BY-SA 4.0
+jahr,def.dat.pl,Jahren,kaikki-en,CC BY-SA 4.0
+jahr,def.dat.pl,Jahr,kaikki-en,CC BY-SA 4.0
+jahr,akk.sg,Jahr,kaikki-en,CC BY-SA 4.0
+jahr,def.akk.pl,Jahre,kaikki-en,CC BY-SA 4.0
+jahr,def.akk.pl,Jahr,kaikki-en,CC BY-SA 4.0
+sonntag,gen,Sonntages,kaikki-en,CC BY-SA 4.0
+sonntag,gen,Sonntags,kaikki-en,CC BY-SA 4.0
+sonntag,pl,Sonntage,kaikki-en,CC BY-SA 4.0
+sonntag,nom.sg,Sonntag,kaikki-en,CC BY-SA 4.0
+sonntag,def.nom.pl,Sonntage,kaikki-en,CC BY-SA 4.0
+sonntag,gen.sg,Sonntages,kaikki-en,CC BY-SA 4.0
+sonntag,gen.sg,Sonntags,kaikki-en,CC BY-SA 4.0
+sonntag,def.gen.pl,Sonntage,kaikki-en,CC BY-SA 4.0
+sonntag,dat.sg,Sonntag,kaikki-en,CC BY-SA 4.0
+sonntag,dat.sg,Sonntage,kaikki-en,CC BY-SA 4.0
+sonntag,def.dat.pl,Sonntagen,kaikki-en,CC BY-SA 4.0
+sonntag,akk.sg,Sonntag,kaikki-en,CC BY-SA 4.0
+sonntag,def.akk.pl,Sonntage,kaikki-en,CC BY-SA 4.0
+morgen-noun,gen,Morgens,kaikki-en,CC BY-SA 4.0
+morgen-noun,pl,Morgen,kaikki-en,CC BY-SA 4.0
+morgen-noun,pl,Morgende,kaikki-en,CC BY-SA 4.0
+morgen-noun,nom.sg,Morgen,kaikki-en,CC BY-SA 4.0
+morgen-noun,def.nom.pl,Morgen,kaikki-en,CC BY-SA 4.0
+morgen-noun,def.nom.pl,Morgende,kaikki-en,CC BY-SA 4.0
+morgen-noun,gen.sg,Morgens,kaikki-en,CC BY-SA 4.0
+morgen-noun,def.gen.pl,Morgen,kaikki-en,CC BY-SA 4.0
+morgen-noun,def.gen.pl,Morgende,kaikki-en,CC BY-SA 4.0
+morgen-noun,dat.sg,Morgen,kaikki-en,CC BY-SA 4.0
+morgen-noun,def.dat.pl,Morgen,kaikki-en,CC BY-SA 4.0
+morgen-noun,def.dat.pl,Morgenden,kaikki-en,CC BY-SA 4.0
+morgen-noun,akk.sg,Morgen,kaikki-en,CC BY-SA 4.0
+morgen-noun,def.akk.pl,Morgen,kaikki-en,CC BY-SA 4.0
+morgen-noun,def.akk.pl,Morgende,kaikki-en,CC BY-SA 4.0
+morgen-noun,gen,Morgen,kaikki-en,CC BY-SA 4.0
+wecker,gen,Weckers,kaikki-en,CC BY-SA 4.0
+wecker,pl,Wecker,kaikki-en,CC BY-SA 4.0
+wecker,nom.sg,Wecker,kaikki-en,CC BY-SA 4.0
+wecker,def.nom.pl,Wecker,kaikki-en,CC BY-SA 4.0
+wecker,gen.sg,Weckers,kaikki-en,CC BY-SA 4.0
+wecker,def.gen.pl,Wecker,kaikki-en,CC BY-SA 4.0
+wecker,dat.sg,Wecker,kaikki-en,CC BY-SA 4.0
+wecker,def.dat.pl,Weckern,kaikki-en,CC BY-SA 4.0
+wecker,akk.sg,Wecker,kaikki-en,CC BY-SA 4.0
+wecker,def.akk.pl,Wecker,kaikki-en,CC BY-SA 4.0
+monat,gen,Monates,kaikki-en,CC BY-SA 4.0
+monat,gen,Monats,kaikki-en,CC BY-SA 4.0
+monat,pl,Monate,kaikki-en,CC BY-SA 4.0
+monat,def.nom.sg,Monat,kaikki-en,CC BY-SA 4.0
+monat,def.nom.pl,Monate,kaikki-en,CC BY-SA 4.0
+monat,gen.sg,Monates,kaikki-en,CC BY-SA 4.0
+monat,gen.sg,Monats,kaikki-en,CC BY-SA 4.0
+monat,def.gen.pl,Monate,kaikki-en,CC BY-SA 4.0
+monat,dat.sg,Monat,kaikki-en,CC BY-SA 4.0
+monat,dat.sg,Monate,kaikki-en,CC BY-SA 4.0
+monat,def.dat.pl,Monaten,kaikki-en,CC BY-SA 4.0
+monat,def.akk.sg,Monat,kaikki-en,CC BY-SA 4.0
+monat,def.akk.pl,Monate,kaikki-en,CC BY-SA 4.0
+woche,gen,Woche,kaikki-en,CC BY-SA 4.0
+woche,pl,Wochen,kaikki-en,CC BY-SA 4.0
+woche,nom.sg,Woche,kaikki-en,CC BY-SA 4.0
+woche,def.nom.pl,Wochen,kaikki-en,CC BY-SA 4.0
+woche,gen.sg,Woche,kaikki-en,CC BY-SA 4.0
+woche,def.gen.pl,Wochen,kaikki-en,CC BY-SA 4.0
+woche,dat.sg,Woche,kaikki-en,CC BY-SA 4.0
+woche,def.dat.pl,Wochen,kaikki-en,CC BY-SA 4.0
+woche,akk.sg,Woche,kaikki-en,CC BY-SA 4.0
+woche,def.akk.pl,Wochen,kaikki-en,CC BY-SA 4.0
+ferien,def.nom.pl,Ferien,kaikki-en,CC BY-SA 4.0
+ferien,def.gen.pl,Ferien,kaikki-en,CC BY-SA 4.0
+ferien,def.dat.pl,Ferien,kaikki-en,CC BY-SA 4.0
+ferien,def.akk.pl,Ferien,kaikki-en,CC BY-SA 4.0
+spazieren,praes.3sg,spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,partizip2,spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,inf,spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,partizip1,spazierend,kaikki-en,CC BY-SA 4.0
+spazieren,praes.1sg,spaziere,kaikki-en,CC BY-SA 4.0
+spazieren,praes.1pl,spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.1sg,spaziere,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.1pl,spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,praes.2sg,spazierst,kaikki-en,CC BY-SA 4.0
+spazieren,praes.2pl,spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.2sg,spazierest,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.2pl,spazieret,kaikki-en,CC BY-SA 4.0
+spazieren,praes.3pl,spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.3sg,spaziere,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.3pl,spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,praet.1sg,spazierte,kaikki-en,CC BY-SA 4.0
+spazieren,praet.1pl,spazierten,kaikki-en,CC BY-SA 4.0
+spazieren,praet.2sg,spaziertest,kaikki-en,CC BY-SA 4.0
+spazieren,praet.2pl,spaziertet,kaikki-en,CC BY-SA 4.0
+spazieren,praet.3sg,spazierte,kaikki-en,CC BY-SA 4.0
+spazieren,praet.3pl,spazierten,kaikki-en,CC BY-SA 4.0
+spazieren,imp.2sg,spazier,kaikki-en,CC BY-SA 4.0
+spazieren,imp.2sg,spaziere,kaikki-en,CC BY-SA 4.0
+spazieren,imp.2pl,spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.1sg,bin spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.1sg,habe spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.1pl,sind spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.1pl,haben spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.1sg,sei spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.1sg,habe spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.1pl,seien spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.1pl,haben spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.2sg,bist spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.2sg,hast spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.2pl,seid spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.2pl,habt spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.2sg,seist spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.2sg,seiest spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.2sg,habest spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.2pl,seiet spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.2pl,habet spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.3sg,ist spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.3sg,hat spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.3pl,sind spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,perf.3pl,haben spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.3sg,sei spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.3sg,habe spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.3pl,seien spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.perf.3pl,haben spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.1sg,war spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.1sg,hatte spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.1pl,waren spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.1pl,hatten spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.1sg,wäre spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.1sg,hätte spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.1pl,wären spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.1pl,hätten spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.2sg,warst spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.2sg,hattest spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.2pl,wart spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.2pl,hattet spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.2sg,wärst spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.2sg,wärest spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.2sg,hättest spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.2pl,wärt spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.2pl,wäret spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.2pl,hättet spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.3sg,war spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.3sg,hatte spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.3pl,waren spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,plusq.3pl,hatten spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.3sg,wäre spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.3sg,hätte spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.3pl,wären spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.plusq.3pl,hätten spaziert,kaikki-en,CC BY-SA 4.0
+spazieren,inf.fut1,spazieren werden,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut1.1sg,werde spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut1.1pl,werden spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut1.2sg,werdest spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut1.2pl,werdet spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut1.3sg,werde spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut1.3pl,werden spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,fut1.1sg,werde spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,fut1.1pl,werden spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut1.1sg,würde spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut1.1pl,würden spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,fut1.2sg,wirst spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,fut1.2pl,werdet spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut1.2sg,würdest spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut1.2pl,würdet spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,fut1.3sg,wird spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,fut1.3pl,werden spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut1.3sg,würde spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut1.3pl,würden spazieren,kaikki-en,CC BY-SA 4.0
+spazieren,inf.fut2,spaziert sein werden,kaikki-en,CC BY-SA 4.0
+spazieren,inf.fut2,spaziert haben werden,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.1sg,werde spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.1sg,werde spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.1pl,werden spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.1pl,werden spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.2sg,werdest spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.2sg,werdest spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.2pl,werdet spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.2pl,werdet spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.3sg,werde spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.3sg,werde spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.3pl,werden spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj1.fut2.3pl,werden spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.1sg,werde spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.1sg,werde spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.1pl,werden spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.1pl,werden spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.1sg,würde spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.1sg,würde spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.1pl,würden spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.1pl,würden spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.2sg,wirst spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.2sg,wirst spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.2pl,werdet spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.2pl,werdet spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.2sg,würdest spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.2sg,würdest spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.2pl,würdet spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.2pl,würdet spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.3sg,wird spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.3sg,wird spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.3pl,werden spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,fut2.3pl,werden spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.3sg,würde spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.3sg,würde spaziert haben,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.3pl,würden spaziert sein,kaikki-en,CC BY-SA 4.0
+spazieren,konj2.fut2.3pl,würden spaziert haben,kaikki-en,CC BY-SA 4.0
+kalender,gen,Kalenders,kaikki-en,CC BY-SA 4.0
+kalender,pl,Kalender,kaikki-en,CC BY-SA 4.0
+kalender,nom.sg,Kalender,kaikki-en,CC BY-SA 4.0
+kalender,def.nom.pl,Kalender,kaikki-en,CC BY-SA 4.0
+kalender,gen.sg,Kalenders,kaikki-en,CC BY-SA 4.0
+kalender,def.gen.pl,Kalender,kaikki-en,CC BY-SA 4.0
+kalender,dat.sg,Kalender,kaikki-en,CC BY-SA 4.0
+kalender,def.dat.pl,Kalendern,kaikki-en,CC BY-SA 4.0
+kalender,akk.sg,Kalender,kaikki-en,CC BY-SA 4.0
+kalender,def.akk.pl,Kalender,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.3sg,schläft ein,kaikki-en,CC BY-SA 4.0
+einschlafen,partizip2,eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,inf,einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,partizip1,einschlafend,kaikki-en,CC BY-SA 4.0
+einschlafen,inf,einzuschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.1sg,schlafe ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.1pl,schlafen ein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.1sg,schlafe ein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.1pl,schlafen ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.2sg,schläfst ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.2pl,schlaft ein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.2sg,schlafest ein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.2pl,schlafet ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.3pl,schlafen ein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.3sg,schlafe ein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.3pl,schlafen ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.1sg,schlief ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.1pl,schliefen ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.2sg,schliefst ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.2pl,schlieft ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.3sg,schlief ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.3pl,schliefen ein,kaikki-en,CC BY-SA 4.0
+einschlafen,imp.2sg,schlaf ein,kaikki-en,CC BY-SA 4.0
+einschlafen,imp.2sg,schlafe ein,kaikki-en,CC BY-SA 4.0
+einschlafen,imp.2pl,schlaft ein,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.1sg,einschlafe,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.1pl,einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.1sg,einschlafe,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.1pl,einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.2sg,einschläfst,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.2pl,einschlaft,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.2sg,einschlafest,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.2pl,einschlafet,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.3sg,einschläft,kaikki-en,CC BY-SA 4.0
+einschlafen,praes.3pl,einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.3sg,einschlafe,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.3pl,einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.1sg,einschlief,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.1pl,einschliefen,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.2sg,einschliefst,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.2pl,einschlieft,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.3sg,einschlief,kaikki-en,CC BY-SA 4.0
+einschlafen,praet.3pl,einschliefen,kaikki-en,CC BY-SA 4.0
+einschlafen,perf.1sg,bin eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,perf.1pl,sind eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.perf.1sg,sei eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.perf.1pl,seien eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,perf.2sg,bist eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,perf.2pl,seid eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.perf.2sg,seist eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.perf.2sg,seiest eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.perf.2pl,seiet eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,perf.3sg,ist eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,perf.3pl,sind eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.perf.3sg,sei eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.perf.3pl,seien eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,plusq.1sg,war eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,plusq.1pl,waren eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.plusq.1sg,wäre eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.plusq.1pl,wären eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,plusq.2sg,warst eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,plusq.2pl,wart eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.plusq.2sg,wärst eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.plusq.2sg,wärest eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.plusq.2pl,wärt eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.plusq.2pl,wäret eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,plusq.3sg,war eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,plusq.3pl,waren eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.plusq.3sg,wäre eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.plusq.3pl,wären eingeschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,inf.fut1,einschlafen werden,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut1.1sg,werde einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut1.1pl,werden einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut1.2sg,werdest einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut1.2pl,werdet einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut1.3sg,werde einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut1.3pl,werden einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,fut1.1sg,werde einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,fut1.1pl,werden einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut1.1sg,würde einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut1.1pl,würden einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,fut1.2sg,wirst einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,fut1.2pl,werdet einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut1.2sg,würdest einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut1.2pl,würdet einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,fut1.3sg,wird einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,fut1.3pl,werden einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut1.3sg,würde einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut1.3pl,würden einschlafen,kaikki-en,CC BY-SA 4.0
+einschlafen,inf.fut2,eingeschlafen sein werden,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut2.1sg,werde eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut2.1pl,werden eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut2.2sg,werdest eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut2.2pl,werdet eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut2.3sg,werde eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj1.fut2.3pl,werden eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,fut2.1sg,werde eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,fut2.1pl,werden eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut2.1sg,würde eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut2.1pl,würden eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,fut2.2sg,wirst eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,fut2.2pl,werdet eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut2.2sg,würdest eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut2.2pl,würdet eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,fut2.3sg,wird eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,fut2.3pl,werden eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut2.3sg,würde eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+einschlafen,konj2.fut2.3pl,würden eingeschlafen sein,kaikki-en,CC BY-SA 4.0
+mitternacht,gen,Mitternacht,kaikki-en,CC BY-SA 4.0
+mitternacht,pl,Mitternächte,kaikki-en,CC BY-SA 4.0
+mitternacht,nom.sg,Mitternacht,kaikki-en,CC BY-SA 4.0
+mitternacht,def.nom.pl,Mitternächte,kaikki-en,CC BY-SA 4.0
+mitternacht,gen.sg,Mitternacht,kaikki-en,CC BY-SA 4.0
+mitternacht,def.gen.pl,Mitternächte,kaikki-en,CC BY-SA 4.0
+mitternacht,dat.sg,Mitternacht,kaikki-en,CC BY-SA 4.0
+mitternacht,def.dat.pl,Mitternächten,kaikki-en,CC BY-SA 4.0
+mitternacht,akk.sg,Mitternacht,kaikki-en,CC BY-SA 4.0
+mitternacht,def.akk.pl,Mitternächte,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.3sg,ruht aus,kaikki-en,CC BY-SA 4.0
+ausruhen,partizip2,ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,inf,ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,partizip1,ausruhend,kaikki-en,CC BY-SA 4.0
+ausruhen,inf,auszuruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.1sg,ruhe aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.1pl,ruhen aus,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.1sg,ruhe aus,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.1pl,ruhen aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.2sg,ruhst aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.2pl,ruht aus,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.2sg,ruhest aus,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.2pl,ruhet aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.3pl,ruhen aus,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.3sg,ruhe aus,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.3pl,ruhen aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.1sg,ruhte aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.1pl,ruhten aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.2sg,ruhtest aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.2pl,ruhtet aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.3sg,ruhte aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.3pl,ruhten aus,kaikki-en,CC BY-SA 4.0
+ausruhen,imp.2sg,ruh aus,kaikki-en,CC BY-SA 4.0
+ausruhen,imp.2sg,ruhe aus,kaikki-en,CC BY-SA 4.0
+ausruhen,imp.2pl,ruht aus,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.1sg,ausruhe,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.1pl,ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.1sg,ausruhe,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.1pl,ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.2sg,ausruhst,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.2pl,ausruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.2sg,ausruhest,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.2pl,ausruhet,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.3sg,ausruht,kaikki-en,CC BY-SA 4.0
+ausruhen,praes.3pl,ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.3sg,ausruhe,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.3pl,ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.1sg,ausruhte,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.1pl,ausruhten,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.2sg,ausruhtest,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.2pl,ausruhtet,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.3sg,ausruhte,kaikki-en,CC BY-SA 4.0
+ausruhen,praet.3pl,ausruhten,kaikki-en,CC BY-SA 4.0
+ausruhen,perf.1sg,habe ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,perf.1pl,haben ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.perf.1sg,habe ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.perf.1pl,haben ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,perf.2sg,hast ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,perf.2pl,habt ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.perf.2sg,habest ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.perf.2pl,habet ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,perf.3sg,hat ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,perf.3pl,haben ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.perf.3sg,habe ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.perf.3pl,haben ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,plusq.1sg,hatte ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,plusq.1pl,hatten ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.plusq.1sg,hätte ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.plusq.1pl,hätten ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,plusq.2sg,hattest ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,plusq.2pl,hattet ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.plusq.2sg,hättest ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.plusq.2pl,hättet ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,plusq.3sg,hatte ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,plusq.3pl,hatten ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.plusq.3sg,hätte ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.plusq.3pl,hätten ausgeruht,kaikki-en,CC BY-SA 4.0
+ausruhen,inf.fut1,ausruhen werden,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut1.1sg,werde ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut1.1pl,werden ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut1.2sg,werdest ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut1.2pl,werdet ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut1.3sg,werde ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut1.3pl,werden ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,fut1.1sg,werde ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,fut1.1pl,werden ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut1.1sg,würde ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut1.1pl,würden ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,fut1.2sg,wirst ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,fut1.2pl,werdet ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut1.2sg,würdest ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut1.2pl,würdet ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,fut1.3sg,wird ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,fut1.3pl,werden ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut1.3sg,würde ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut1.3pl,würden ausruhen,kaikki-en,CC BY-SA 4.0
+ausruhen,inf.fut2,ausgeruht haben werden,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut2.1sg,werde ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut2.1pl,werden ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut2.2sg,werdest ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut2.2pl,werdet ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut2.3sg,werde ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj1.fut2.3pl,werden ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,fut2.1sg,werde ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,fut2.1pl,werden ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut2.1sg,würde ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut2.1pl,würden ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,fut2.2sg,wirst ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,fut2.2pl,werdet ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut2.2sg,würdest ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut2.2pl,würdet ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,fut2.3sg,wird ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,fut2.3pl,werden ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut2.3sg,würde ausgeruht haben,kaikki-en,CC BY-SA 4.0
+ausruhen,konj2.fut2.3pl,würden ausgeruht haben,kaikki-en,CC BY-SA 4.0
+wochentag,gen,Wochentages,kaikki-en,CC BY-SA 4.0
+wochentag,gen,Wochentags,kaikki-en,CC BY-SA 4.0
+wochentag,pl,Wochentage,kaikki-en,CC BY-SA 4.0
+wochentag,nom.sg,Wochentag,kaikki-en,CC BY-SA 4.0
+wochentag,def.nom.pl,Wochentage,kaikki-en,CC BY-SA 4.0
+wochentag,gen.sg,Wochentages,kaikki-en,CC BY-SA 4.0
+wochentag,gen.sg,Wochentags,kaikki-en,CC BY-SA 4.0
+wochentag,def.gen.pl,Wochentage,kaikki-en,CC BY-SA 4.0
+wochentag,dat.sg,Wochentag,kaikki-en,CC BY-SA 4.0
+wochentag,dat.sg,Wochentage,kaikki-en,CC BY-SA 4.0
+wochentag,def.dat.pl,Wochentagen,kaikki-en,CC BY-SA 4.0
+wochentag,akk.sg,Wochentag,kaikki-en,CC BY-SA 4.0
+wochentag,def.akk.pl,Wochentage,kaikki-en,CC BY-SA 4.0
+feierabend,gen,Feierabends,kaikki-en,CC BY-SA 4.0
+feierabend,pl,Feierabende,kaikki-en,CC BY-SA 4.0
+feierabend,nom.sg,Feierabend,kaikki-en,CC BY-SA 4.0
+feierabend,def.nom.pl,Feierabende,kaikki-en,CC BY-SA 4.0
+feierabend,gen.sg,Feierabends,kaikki-en,CC BY-SA 4.0
+feierabend,def.gen.pl,Feierabende,kaikki-en,CC BY-SA 4.0
+feierabend,dat.sg,Feierabend,kaikki-en,CC BY-SA 4.0
+feierabend,def.dat.pl,Feierabenden,kaikki-en,CC BY-SA 4.0
+feierabend,akk.sg,Feierabend,kaikki-en,CC BY-SA 4.0
+feierabend,def.akk.pl,Feierabende,kaikki-en,CC BY-SA 4.0
