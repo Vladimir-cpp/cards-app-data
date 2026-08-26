@@ -3,6 +3,8 @@
   "набор": "de-a1",
   "листы": {
     "de_nouns": "data/de_nouns.csv",
-    "de_verbs": "data/de_verbs.csv"
+    "de-articles": "data/de_nouns.csv",
+    "de_verbs": "data/de_verbs.csv",
+    "de-verbs": "data/de_verbs.csv"
   }
 }
