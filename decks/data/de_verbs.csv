@@ -16,9 +16,9 @@ de:nehmen:praes.2sg:produce,nehmen,nehmen,du,nimmst,брать
 de:nehmen:praes.3sg:produce,nehmen,nehmen,er,nimmt,брать
 de:geben:praes.2sg:produce,geben,geben,du,gibst,давать
 de:geben:praes.3sg:produce,geben,geben,er,gibt,давать
-de:sehen:praes.2sg:produce,sehen,sehen,du,siehst,видеть
-de:sehen:praes.3sg:produce,sehen,sehen,er,sieht,видеть
-de:essen:praes.2sg:produce,essen,essen,du,isst,есть
+de:sehen:praes.2sg:produce,sehen,sehen,du,siehst,смотреть
+de:sehen:praes.3sg:produce,sehen,sehen,er,sieht,смотреть
+de:essen:praes.2sg:produce,essen,essen,du,isst,кушать
 de:laufen:praes.2sg:produce,laufen,laufen,du,läufst,бегать
 de:laufen:praes.3sg:produce,laufen,laufen,er,läuft,бегать
 de:schlafen:praes.2sg:produce,schlafen,schlafen,du,schläfst,спать
@@ -48,16 +48,6 @@ de:anbieten:praes.2sg:produce,anbieten,anbieten,du,bietest an,предлагат
 de:anbieten:praes.3sg:produce,anbieten,anbieten,er,bietet an,предлагать
 de:anbieten:praes.1pl:produce,anbieten,anbieten,wir,bieten an,предлагать
 de:anbieten:praes.2pl:produce,anbieten,anbieten,ihr,bietet an,предлагать
-de:anfangen:praes.1sg:produce,anfangen,anfangen,ich,fange an,начинать
-de:anfangen:praes.2sg:produce,anfangen,anfangen,du,fängst an,начинать
-de:anfangen:praes.3sg:produce,anfangen,anfangen,er,fängt an,начинать
-de:anfangen:praes.1pl:produce,anfangen,anfangen,wir,fangen an,начинать
-de:anfangen:praes.2pl:produce,anfangen,anfangen,ihr,fangt an,начинать
-de:anklicken:praes.1sg:produce,anklicken,anklicken,ich,klicke an,щёлкнуть мышью
-de:anklicken:praes.2sg:produce,anklicken,anklicken,du,klickst an,щёлкнуть мышью
-de:anklicken:praes.3sg:produce,anklicken,anklicken,er,klickt an,щёлкнуть мышью
-de:anklicken:praes.1pl:produce,anklicken,anklicken,wir,klicken an,щёлкнуть мышью
-de:anklicken:praes.2pl:produce,anklicken,anklicken,ihr,klickt an,щёлкнуть мышью
 de:ankommen:praes.1sg:produce,ankommen,ankommen,ich,komme an,прибывать
 de:ankommen:praes.2sg:produce,ankommen,ankommen,du,kommst an,прибывать
 de:ankommen:praes.3sg:produce,ankommen,ankommen,er,kommt an,прибывать
@@ -73,11 +63,11 @@ de:anmachen:praes.2sg:produce,anmachen,anmachen,du,machst an,включать
 de:anmachen:praes.3sg:produce,anmachen,anmachen,er,macht an,включать
 de:anmachen:praes.1pl:produce,anmachen,anmachen,wir,machen an,включать
 de:anmachen:praes.2pl:produce,anmachen,anmachen,ihr,macht an,включать
-de:anrufen:praes.1sg:produce,anrufen,anrufen,ich,rufe an,окликать
-de:anrufen:praes.2sg:produce,anrufen,anrufen,du,rufst an,окликать
-de:anrufen:praes.3sg:produce,anrufen,anrufen,er,ruft an,окликать
-de:anrufen:praes.1pl:produce,anrufen,anrufen,wir,rufen an,окликать
-de:anrufen:praes.2pl:produce,anrufen,anrufen,ihr,ruft an,окликать
+de:anrufen:praes.1sg:produce,anrufen,anrufen,ich,rufe an,звонить
+de:anrufen:praes.2sg:produce,anrufen,anrufen,du,rufst an,звонить
+de:anrufen:praes.3sg:produce,anrufen,anrufen,er,ruft an,звонить
+de:anrufen:praes.1pl:produce,anrufen,anrufen,wir,rufen an,звонить
+de:anrufen:praes.2pl:produce,anrufen,anrufen,ihr,ruft an,звонить
 de:antworten:praes.1sg:produce,antworten,antworten,ich,antworte,отвечать
 de:antworten:praes.2sg:produce,antworten,antworten,du,antwortest,отвечать
 de:antworten:praes.3sg:produce,antworten,antworten,er,antwortet,отвечать
@@ -98,16 +88,16 @@ de:aufstehen:praes.2sg:produce,aufstehen,aufstehen,du,stehst auf,встават�
 de:aufstehen:praes.3sg:produce,aufstehen,aufstehen,er,steht auf,вставать
 de:aufstehen:praes.1pl:produce,aufstehen,aufstehen,wir,stehen auf,вставать
 de:aufstehen:praes.2pl:produce,aufstehen,aufstehen,ihr,steht auf,вставать
-de:ausfuellen:praes.1sg:produce,ausfuellen,ausfüllen,ich,fülle aus,наполнить
-de:ausfuellen:praes.2sg:produce,ausfuellen,ausfüllen,du,füllst aus,наполнить
-de:ausfuellen:praes.3sg:produce,ausfuellen,ausfüllen,er,füllt aus,наполнить
-de:ausfuellen:praes.1pl:produce,ausfuellen,ausfüllen,wir,füllen aus,наполнить
-de:ausfuellen:praes.2pl:produce,ausfuellen,ausfüllen,ihr,füllt aus,наполнить
-de:ausmachen:praes.1sg:produce,ausmachen,ausmachen,ich,mache aus,тушить
-de:ausmachen:praes.2sg:produce,ausmachen,ausmachen,du,machst aus,тушить
-de:ausmachen:praes.3sg:produce,ausmachen,ausmachen,er,macht aus,тушить
-de:ausmachen:praes.1pl:produce,ausmachen,ausmachen,wir,machen aus,тушить
-de:ausmachen:praes.2pl:produce,ausmachen,ausmachen,ihr,macht aus,тушить
+de:ausfuellen:praes.1sg:produce,ausfuellen,ausfüllen,ich,fülle aus,заполнить
+de:ausfuellen:praes.2sg:produce,ausfuellen,ausfüllen,du,füllst aus,заполнить
+de:ausfuellen:praes.3sg:produce,ausfuellen,ausfüllen,er,füllt aus,заполнить
+de:ausfuellen:praes.1pl:produce,ausfuellen,ausfüllen,wir,füllen aus,заполнить
+de:ausfuellen:praes.2pl:produce,ausfuellen,ausfüllen,ihr,füllt aus,заполнить
+de:ausmachen:praes.1sg:produce,ausmachen,ausmachen,ich,mache aus,выключить
+de:ausmachen:praes.2sg:produce,ausmachen,ausmachen,du,machst aus,выключить
+de:ausmachen:praes.3sg:produce,ausmachen,ausmachen,er,macht aus,выключить
+de:ausmachen:praes.1pl:produce,ausmachen,ausmachen,wir,machen aus,выключить
+de:ausmachen:praes.2pl:produce,ausmachen,ausmachen,ihr,macht aus,выключить
 de:aussehen:praes.1sg:produce,aussehen,aussehen,ich,sehe aus,выглядеть
 de:aussehen:praes.2sg:produce,aussehen,aussehen,du,siehst aus,выглядеть
 de:aussehen:praes.3sg:produce,aussehen,aussehen,er,sieht aus,выглядеть
@@ -123,11 +113,6 @@ de:baden:praes.2sg:produce,baden,baden,du,badest,купаться
 de:baden:praes.3sg:produce,baden,baden,er,badet,купаться
 de:baden:praes.1pl:produce,baden,baden,wir,baden,купаться
 de:baden:praes.2pl:produce,baden,baden,ihr,badet,купаться
-de:bedeuten:praes.1sg:produce,bedeuten,bedeuten,ich,bedeute,значить
-de:bedeuten:praes.2sg:produce,bedeuten,bedeuten,du,bedeutest,значить
-de:bedeuten:praes.3sg:produce,bedeuten,bedeuten,er,bedeutet,значить
-de:bedeuten:praes.1pl:produce,bedeuten,bedeuten,wir,bedeuten,значить
-de:bedeuten:praes.2pl:produce,bedeuten,bedeuten,ihr,bedeutet,значить
 de:beginnen:praes.1sg:produce,beginnen,beginnen,ich,beginne,начинать
 de:beginnen:praes.2sg:produce,beginnen,beginnen,du,beginnst,начинать
 de:beginnen:praes.3sg:produce,beginnen,beginnen,er,beginnt,начинать
@@ -173,21 +158,21 @@ de:bleiben:praes.2sg:produce,bleiben,bleiben,du,bleibst,оставаться
 de:bleiben:praes.3sg:produce,bleiben,bleiben,er,bleibt,оставаться
 de:bleiben:praes.1pl:produce,bleiben,bleiben,wir,bleiben,оставаться
 de:bleiben:praes.2pl:produce,bleiben,bleiben,ihr,bleibt,оставаться
-de:brauchen:praes.1sg:produce,brauchen,brauchen,ich,brauche,употреблять
-de:brauchen:praes.2sg:produce,brauchen,brauchen,du,brauchst,употреблять
-de:brauchen:praes.3sg:produce,brauchen,brauchen,er,braucht,употреблять
-de:brauchen:praes.1pl:produce,brauchen,brauchen,wir,brauchen,употреблять
-de:brauchen:praes.2pl:produce,brauchen,brauchen,ihr,braucht,употреблять
+de:brauchen:praes.1sg:produce,brauchen,brauchen,ich,brauche,нуждаться
+de:brauchen:praes.2sg:produce,brauchen,brauchen,du,brauchst,нуждаться
+de:brauchen:praes.3sg:produce,brauchen,brauchen,er,braucht,нуждаться
+de:brauchen:praes.1pl:produce,brauchen,brauchen,wir,brauchen,нуждаться
+de:brauchen:praes.2pl:produce,brauchen,brauchen,ihr,braucht,нуждаться
 de:bringen:praes.1sg:produce,bringen,bringen,ich,bringe,приносить
 de:bringen:praes.2sg:produce,bringen,bringen,du,bringst,приносить
 de:bringen:praes.3sg:produce,bringen,bringen,er,bringt,приносить
 de:bringen:praes.1pl:produce,bringen,bringen,wir,bringen,приносить
 de:bringen:praes.2pl:produce,bringen,bringen,ihr,bringt,приносить
-de:buchstabieren:praes.1sg:produce,buchstabieren,buchstabieren,ich,buchstabiere,читать по складам
-de:buchstabieren:praes.2sg:produce,buchstabieren,buchstabieren,du,buchstabierst,читать по складам
-de:buchstabieren:praes.3sg:produce,buchstabieren,buchstabieren,er,buchstabiert,читать по складам
-de:buchstabieren:praes.1pl:produce,buchstabieren,buchstabieren,wir,buchstabieren,читать по складам
-de:buchstabieren:praes.2pl:produce,buchstabieren,buchstabieren,ihr,buchstabiert,читать по складам
+de:buchstabieren:praes.1sg:produce,buchstabieren,buchstabieren,ich,buchstabiere,прогрваривать по буквам
+de:buchstabieren:praes.2sg:produce,buchstabieren,buchstabieren,du,buchstabierst,прогрваривать по буквам
+de:buchstabieren:praes.3sg:produce,buchstabieren,buchstabieren,er,buchstabiert,прогрваривать по буквам
+de:buchstabieren:praes.1pl:produce,buchstabieren,buchstabieren,wir,buchstabieren,прогрваривать по буквам
+de:buchstabieren:praes.2pl:produce,buchstabieren,buchstabieren,ihr,buchstabiert,прогрваривать по буквам
 de:danken:praes.1sg:produce,danken,danken,ich,danke,благодарить
 de:danken:praes.2sg:produce,danken,danken,du,dankst,благодарить
 de:danken:praes.3sg:produce,danken,danken,er,dankt,благодарить
@@ -198,21 +183,21 @@ de:dauern:praes.2sg:produce,dauern,dauern,du,dauerst,длиться
 de:dauern:praes.3sg:produce,dauern,dauern,er,dauert,длиться
 de:dauern:praes.1pl:produce,dauern,dauern,wir,dauern,длиться
 de:dauern:praes.2pl:produce,dauern,dauern,ihr,dauert,длиться
-de:drucken:praes.1sg:produce,drucken,drucken,ich,drucke,давить прессом
-de:drucken:praes.2sg:produce,drucken,drucken,du,druckst,давить прессом
-de:drucken:praes.3sg:produce,drucken,drucken,er,druckt,давить прессом
-de:drucken:praes.1pl:produce,drucken,drucken,wir,drucken,давить прессом
-de:drucken:praes.2pl:produce,drucken,drucken,ihr,druckt,давить прессом
-de:druecken:praes.1sg:produce,druecken,drücken,ich,drücke,давить
-de:druecken:praes.2sg:produce,druecken,drücken,du,drückst,давить
-de:druecken:praes.3sg:produce,druecken,drücken,er,drückt,давить
-de:druecken:praes.1pl:produce,druecken,drücken,wir,drücken,давить
-de:druecken:praes.2pl:produce,druecken,drücken,ihr,drückt,давить
-de:duerfen:praes.1sg:produce,duerfen,dürfen,ich,darf,мочь
-de:duerfen:praes.2sg:produce,duerfen,dürfen,du,darfst,мочь
-de:duerfen:praes.3sg:produce,duerfen,dürfen,er,darf,мочь
-de:duerfen:praes.1pl:produce,duerfen,dürfen,wir,dürfen,мочь
-de:duerfen:praes.2pl:produce,duerfen,dürfen,ihr,dürft,мочь
+de:drucken:praes.1sg:produce,drucken,drucken,ich,drucke,печатать
+de:drucken:praes.2sg:produce,drucken,drucken,du,druckst,печатать
+de:drucken:praes.3sg:produce,drucken,drucken,er,druckt,печатать
+de:drucken:praes.1pl:produce,drucken,drucken,wir,drucken,печатать
+de:drucken:praes.2pl:produce,drucken,drucken,ihr,druckt,печатать
+de:druecken:praes.1sg:produce,druecken,drücken,ich,drücke,нажимать
+de:druecken:praes.2sg:produce,druecken,drücken,du,drückst,нажимать
+de:druecken:praes.3sg:produce,druecken,drücken,er,drückt,нажимать
+de:druecken:praes.1pl:produce,druecken,drücken,wir,drücken,нажимать
+de:druecken:praes.2pl:produce,druecken,drücken,ihr,drückt,нажимать
+de:duerfen:praes.1sg:produce,duerfen,dürfen,ich,darf,разрешается
+de:duerfen:praes.2sg:produce,duerfen,dürfen,du,darfst,разрешается
+de:duerfen:praes.3sg:produce,duerfen,dürfen,er,darf,разрешается
+de:duerfen:praes.1pl:produce,duerfen,dürfen,wir,dürfen,разрешается
+de:duerfen:praes.2pl:produce,duerfen,dürfen,ihr,dürft,разрешается
 de:einkaufen:praes.1sg:produce,einkaufen,einkaufen,ich,kaufe ein,покупать
 de:einkaufen:praes.2sg:produce,einkaufen,einkaufen,du,kaufst ein,покупать
 de:einkaufen:praes.3sg:produce,einkaufen,einkaufen,er,kauft ein,покупать
@@ -233,11 +218,11 @@ de:empfehlen:praes.2sg:produce,empfehlen,empfehlen,du,empfiehlst,рекомен�
 de:empfehlen:praes.3sg:produce,empfehlen,empfehlen,er,empfiehlt,рекомендовать
 de:empfehlen:praes.1pl:produce,empfehlen,empfehlen,wir,empfehlen,рекомендовать
 de:empfehlen:praes.2pl:produce,empfehlen,empfehlen,ihr,empfehlt,рекомендовать
-de:enden:praes.1sg:produce,enden,enden,ich,ende,кончать
-de:enden:praes.2sg:produce,enden,enden,du,endest,кончать
-de:enden:praes.3sg:produce,enden,enden,er,endet,кончать
-de:enden:praes.1pl:produce,enden,enden,wir,enden,кончать
-de:enden:praes.2pl:produce,enden,enden,ihr,endet,кончать
+de:enden:praes.1sg:produce,enden,enden,ich,ende,заканчивать
+de:enden:praes.2sg:produce,enden,enden,du,endest,заканчивать
+de:enden:praes.3sg:produce,enden,enden,er,endet,заканчивать
+de:enden:praes.1pl:produce,enden,enden,wir,enden,заканчивать
+de:enden:praes.2pl:produce,enden,enden,ihr,endet,заканчивать
 de:entschuldigen:praes.1sg:produce,entschuldigen,entschuldigen,ich,entschuldige,извинять
 de:entschuldigen:praes.2sg:produce,entschuldigen,entschuldigen,du,entschuldigst,извинять
 de:entschuldigen:praes.3sg:produce,entschuldigen,entschuldigen,er,entschuldigt,извинять
@@ -258,18 +243,18 @@ de:erzaehlen:praes.2sg:produce,erzaehlen,erzählen,du,erzählst,рассказы
 de:erzaehlen:praes.3sg:produce,erzaehlen,erzählen,er,erzählt,рассказывать
 de:erzaehlen:praes.1pl:produce,erzaehlen,erzählen,wir,erzählen,рассказывать
 de:erzaehlen:praes.2pl:produce,erzaehlen,erzählen,ihr,erzählt,рассказывать
-de:essen:praes.1sg:produce,essen,essen,ich,esse,есть
-de:essen:praes.3sg:produce,essen,essen,er,isst,есть
-de:essen:praes.1pl:produce,essen,essen,wir,essen,есть
-de:essen:praes.2pl:produce,essen,essen,ihr,esst,есть
-de:fahren:praes.1sg:produce,fahren,fahren,ich,fahre,возить
-de:fahren:praes.1pl:produce,fahren,fahren,wir,fahren,возить
-de:fahren:praes.2pl:produce,fahren,fahren,ihr,fahrt,возить
-de:fehlen:praes.1sg:produce,fehlen,fehlen,ich,fehle,недоставать
-de:fehlen:praes.2sg:produce,fehlen,fehlen,du,fehlst,недоставать
-de:fehlen:praes.3sg:produce,fehlen,fehlen,er,fehlt,недоставать
-de:fehlen:praes.1pl:produce,fehlen,fehlen,wir,fehlen,недоставать
-de:fehlen:praes.2pl:produce,fehlen,fehlen,ihr,fehlt,недоставать
+de:essen:praes.1sg:produce,essen,essen,ich,esse,кушать
+de:essen:praes.3sg:produce,essen,essen,er,isst,кушать
+de:essen:praes.1pl:produce,essen,essen,wir,essen,кушать
+de:essen:praes.2pl:produce,essen,essen,ihr,esst,кушать
+de:fahren:praes.1sg:produce,fahren,fahren,ich,fahre,ехать
+de:fahren:praes.1pl:produce,fahren,fahren,wir,fahren,ехать
+de:fahren:praes.2pl:produce,fahren,fahren,ihr,fahrt,ехать
+de:fehlen:praes.1sg:produce,fehlen,fehlen,ich,fehle,ошибаться
+de:fehlen:praes.2sg:produce,fehlen,fehlen,du,fehlst,ошибаться
+de:fehlen:praes.3sg:produce,fehlen,fehlen,er,fehlt,ошибаться
+de:fehlen:praes.1pl:produce,fehlen,fehlen,wir,fehlen,ошибаться
+de:fehlen:praes.2pl:produce,fehlen,fehlen,ihr,fehlt,ошибаться
 de:feiern:praes.1sg:produce,feiern,feiern,ich,feire,праздновать
 de:feiern:praes.2sg:produce,feiern,feiern,du,feierst,праздновать
 de:feiern:praes.3sg:produce,feiern,feiern,er,feiert,праздновать
@@ -365,11 +350,11 @@ de:hoeren:praes.2sg:produce,hoeren,hören,du,hörst,слышать
 de:hoeren:praes.3sg:produce,hoeren,hören,er,hört,слышать
 de:hoeren:praes.1pl:produce,hoeren,hören,wir,hören,слышать
 de:hoeren:praes.2pl:produce,hoeren,hören,ihr,hört,слышать
-de:holen:praes.1sg:produce,holen,holen,ich,hole,
-de:holen:praes.2sg:produce,holen,holen,du,holst,
-de:holen:praes.3sg:produce,holen,holen,er,holt,
-de:holen:praes.1pl:produce,holen,holen,wir,holen,
-de:holen:praes.2pl:produce,holen,holen,ihr,holt,
+de:holen:praes.1sg:produce,holen,holen,ich,hole,нести
+de:holen:praes.2sg:produce,holen,holen,du,holst,нести
+de:holen:praes.3sg:produce,holen,holen,er,holt,нести
+de:holen:praes.1pl:produce,holen,holen,wir,holen,нести
+de:holen:praes.2pl:produce,holen,holen,ihr,holt,нести
 de:kaufen:praes.1sg:produce,kaufen,kaufen,ich,kaufe,покупать
 de:kaufen:praes.2sg:produce,kaufen,kaufen,du,kaufst,покупать
 de:kaufen:praes.3sg:produce,kaufen,kaufen,er,kauft,покупать
@@ -452,11 +437,11 @@ de:machen:praes.2sg:produce,machen,machen,du,machst,делать
 de:machen:praes.3sg:produce,machen,machen,er,macht,делать
 de:machen:praes.1pl:produce,machen,machen,wir,machen,делать
 de:machen:praes.2pl:produce,machen,machen,ihr,macht,делать
-de:mieten:praes.1sg:produce,mieten,mieten,ich,miete,снимать
-de:mieten:praes.2sg:produce,mieten,mieten,du,mietest,снимать
-de:mieten:praes.3sg:produce,mieten,mieten,er,mietet,снимать
-de:mieten:praes.1pl:produce,mieten,mieten,wir,mieten,снимать
-de:mieten:praes.2pl:produce,mieten,mieten,ihr,mietet,снимать
+de:mieten:praes.1sg:produce,mieten,mieten,ich,miete,арендовать
+de:mieten:praes.2sg:produce,mieten,mieten,du,mietest,арендовать
+de:mieten:praes.3sg:produce,mieten,mieten,er,mietet,арендовать
+de:mieten:praes.1pl:produce,mieten,mieten,wir,mieten,арендовать
+de:mieten:praes.2pl:produce,mieten,mieten,ihr,mietet,арендовать
 de:mitbringen:praes.1sg:produce,mitbringen,mitbringen,ich,bringe mit,принести
 de:mitbringen:praes.2sg:produce,mitbringen,mitbringen,du,bringst mit,принести
 de:mitbringen:praes.3sg:produce,mitbringen,mitbringen,er,bringt mit,принести
@@ -477,11 +462,11 @@ de:mitnehmen:praes.2sg:produce,mitnehmen,mitnehmen,du,nimmst mit,брать   с
 de:mitnehmen:praes.3sg:produce,mitnehmen,mitnehmen,er,nimmt mit,брать   с собой
 de:mitnehmen:praes.1pl:produce,mitnehmen,mitnehmen,wir,nehmen mit,брать   с собой
 de:mitnehmen:praes.2pl:produce,mitnehmen,mitnehmen,ihr,nehmt mit,брать   с собой
-de:moegen:praes.1sg:produce,moegen,mögen,ich,mag,любить
-de:moegen:praes.2sg:produce,moegen,mögen,du,magst,любить
-de:moegen:praes.3sg:produce,moegen,mögen,er,mag,любить
-de:moegen:praes.1pl:produce,moegen,mögen,wir,mögen,любить
-de:moegen:praes.2pl:produce,moegen,mögen,ihr,mögt,любить
+de:moegen:praes.1sg:produce,moegen,mögen,ich,mag,нравиться
+de:moegen:praes.2sg:produce,moegen,mögen,du,magst,нравиться
+de:moegen:praes.3sg:produce,moegen,mögen,er,mag,нравиться
+de:moegen:praes.1pl:produce,moegen,mögen,wir,mögen,нравиться
+de:moegen:praes.2pl:produce,moegen,mögen,ihr,mögt,нравиться
 de:muessen:praes.1sg:produce,muessen,müssen,ich,muss,быть должным
 de:muessen:praes.2sg:produce,muessen,müssen,du,musst,быть должным
 de:muessen:praes.3sg:produce,muessen,müssen,er,muss,быть должным
@@ -500,11 +485,6 @@ de:rauchen:praes.2sg:produce,rauchen,rauchen,du,rauchst,курить
 de:rauchen:praes.3sg:produce,rauchen,rauchen,er,raucht,курить
 de:rauchen:praes.1pl:produce,rauchen,rauchen,wir,rauchen,курить
 de:rauchen:praes.2pl:produce,rauchen,rauchen,ihr,raucht,курить
-de:regnen:praes.1sg:produce,regnen,regnen,ich,regne,es regnet — идёт дождь
-de:regnen:praes.2sg:produce,regnen,regnen,du,regnest,es regnet — идёт дождь
-de:regnen:praes.3sg:produce,regnen,regnen,er,regnet,es regnet — идёт дождь
-de:regnen:praes.1pl:produce,regnen,regnen,wir,regnen,es regnet — идёт дождь
-de:regnen:praes.2pl:produce,regnen,regnen,ihr,regnet,es regnet — идёт дождь
 de:reisen:praes.1sg:produce,reisen,reisen,ich,reise,путешествовать
 de:reisen:praes.2sg:produce,reisen,reisen,du,reist,путешествовать
 de:reisen:praes.3sg:produce,reisen,reisen,er,reist,путешествовать
@@ -515,11 +495,11 @@ de:reparieren:praes.2sg:produce,reparieren,reparieren,du,reparierst,чинить
 de:reparieren:praes.3sg:produce,reparieren,reparieren,er,repariert,чинить
 de:reparieren:praes.1pl:produce,reparieren,reparieren,wir,reparieren,чинить
 de:reparieren:praes.2pl:produce,reparieren,reparieren,ihr,repariert,чинить
-de:riechen:praes.1sg:produce,riechen,riechen,ich,rieche,обонять
-de:riechen:praes.2sg:produce,riechen,riechen,du,riechst,обонять
-de:riechen:praes.3sg:produce,riechen,riechen,er,riecht,обонять
-de:riechen:praes.1pl:produce,riechen,riechen,wir,riechen,обонять
-de:riechen:praes.2pl:produce,riechen,riechen,ihr,riecht,обонять
+de:riechen:praes.1sg:produce,riechen,riechen,ich,rieche,чуять запах
+de:riechen:praes.2sg:produce,riechen,riechen,du,riechst,чуять запах
+de:riechen:praes.3sg:produce,riechen,riechen,er,riecht,чуять запах
+de:riechen:praes.1pl:produce,riechen,riechen,wir,riechen,чуять запах
+de:riechen:praes.2pl:produce,riechen,riechen,ihr,riecht,чуять запах
 de:sagen:praes.1sg:produce,sagen,sagen,ich,sage,сказать
 de:sagen:praes.2sg:produce,sagen,sagen,du,sagst,сказать
 de:sagen:praes.3sg:produce,sagen,sagen,er,sagt,сказать
@@ -553,11 +533,11 @@ de:schreiben:praes.2sg:produce,schreiben,schreiben,du,schreibst,писать
 de:schreiben:praes.3sg:produce,schreiben,schreiben,er,schreibt,писать
 de:schreiben:praes.1pl:produce,schreiben,schreiben,wir,schreiben,писать
 de:schreiben:praes.2pl:produce,schreiben,schreiben,ihr,schreibt,писать
-de:schwimmen:praes.1sg:produce,schwimmen,schwimmen,ich,schwimme,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола schwimmen
-de:schwimmen:praes.2sg:produce,schwimmen,schwimmen,du,schwimmst,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола schwimmen
-de:schwimmen:praes.3sg:produce,schwimmen,schwimmen,er,schwimmt,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола schwimmen
-de:schwimmen:praes.1pl:produce,schwimmen,schwimmen,wir,schwimmen,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола schwimmen
-de:schwimmen:praes.2pl:produce,schwimmen,schwimmen,ihr,schwimmt,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола schwimmen
+de:schwimmen:praes.1sg:produce,schwimmen,schwimmen,ich,schwimme,плавать
+de:schwimmen:praes.2sg:produce,schwimmen,schwimmen,du,schwimmst,плавать
+de:schwimmen:praes.3sg:produce,schwimmen,schwimmen,er,schwimmt,плавать
+de:schwimmen:praes.1pl:produce,schwimmen,schwimmen,wir,schwimmen,плавать
+de:schwimmen:praes.2pl:produce,schwimmen,schwimmen,ihr,schwimmt,плавать
 de:sehen:praes.1sg:produce,sehen,sehen,ich,sehe,смотреть
 de:sehen:praes.1pl:produce,sehen,sehen,wir,sehen,смотреть
 de:sehen:praes.2pl:produce,sehen,sehen,ihr,seht,смотреть
@@ -568,11 +548,11 @@ de:sitzen:praes.2sg:produce,sitzen,sitzen,du,sitzt,сидеть
 de:sitzen:praes.3sg:produce,sitzen,sitzen,er,sitzt,сидеть
 de:sitzen:praes.1pl:produce,sitzen,sitzen,wir,sitzen,сидеть
 de:sitzen:praes.2pl:produce,sitzen,sitzen,ihr,sitzt,сидеть
-de:sollen:praes.1sg:produce,sollen,sollen,ich,soll,быть должным
-de:sollen:praes.2sg:produce,sollen,sollen,du,sollst,быть должным
-de:sollen:praes.3sg:produce,sollen,sollen,er,soll,быть должным
-de:sollen:praes.1pl:produce,sollen,sollen,wir,sollen,быть должным
-de:sollen:praes.2pl:produce,sollen,sollen,ihr,sollt,быть должным
+de:sollen:praes.1sg:produce,sollen,sollen,ich,soll,следует
+de:sollen:praes.2sg:produce,sollen,sollen,du,sollst,следует
+de:sollen:praes.3sg:produce,sollen,sollen,er,soll,следует
+de:sollen:praes.1pl:produce,sollen,sollen,wir,sollen,следует
+de:sollen:praes.2pl:produce,sollen,sollen,ihr,sollt,следует
 de:spielen:praes.1sg:produce,spielen,spielen,ich,spiele,играть
 de:spielen:praes.2sg:produce,spielen,spielen,du,spielst,играть
 de:spielen:praes.3sg:produce,spielen,spielen,er,spielt,играть
@@ -606,11 +586,11 @@ de:tanzen:praes.2sg:produce,tanzen,tanzen,du,tanzt,танцевать
 de:tanzen:praes.3sg:produce,tanzen,tanzen,er,tanzt,танцевать
 de:tanzen:praes.1pl:produce,tanzen,tanzen,wir,tanzen,танцевать
 de:tanzen:praes.2pl:produce,tanzen,tanzen,ihr,tanzt,танцевать
-de:telefonieren:praes.1sg:produce,telefonieren,telefonieren,ich,telefoniere,телефонировать
-de:telefonieren:praes.2sg:produce,telefonieren,telefonieren,du,telefonierst,телефонировать
-de:telefonieren:praes.3sg:produce,telefonieren,telefonieren,er,telefoniert,телефонировать
-de:telefonieren:praes.1pl:produce,telefonieren,telefonieren,wir,telefonieren,телефонировать
-de:telefonieren:praes.2pl:produce,telefonieren,telefonieren,ihr,telefoniert,телефонировать
+de:telefonieren:praes.1sg:produce,telefonieren,telefonieren,ich,telefoniere,говорить по телефону
+de:telefonieren:praes.2sg:produce,telefonieren,telefonieren,du,telefonierst,говорить по телефону
+de:telefonieren:praes.3sg:produce,telefonieren,telefonieren,er,telefoniert,говорить по телефону
+de:telefonieren:praes.1pl:produce,telefonieren,telefonieren,wir,telefonieren,говорить по телефону
+de:telefonieren:praes.2pl:produce,telefonieren,telefonieren,ihr,telefoniert,говорить по телефону
 de:trinken:praes.1sg:produce,trinken,trinken,ich,trinke,пить
 de:trinken:praes.2sg:produce,trinken,trinken,du,trinkst,пить
 de:trinken:praes.3sg:produce,trinken,trinken,er,trinkt,пить
@@ -699,3 +679,93 @@ de:zahlen:praes.2sg:produce,zahlen,zahlen,du,zahlst,платить
 de:zahlen:praes.3sg:produce,zahlen,zahlen,er,zahlt,платить
 de:zahlen:praes.1pl:produce,zahlen,zahlen,wir,zahlen,платить
 de:zahlen:praes.2pl:produce,zahlen,zahlen,ihr,zahlt,платить
+de:abbiegen:praes.1sg:produce,abbiegen,abbiegen,ich,biege ab,отгибать
+de:abbiegen:praes.2sg:produce,abbiegen,abbiegen,du,biegst ab,отгибать
+de:abbiegen:praes.3sg:produce,abbiegen,abbiegen,er,biegt ab,отгибать
+de:abbiegen:praes.1pl:produce,abbiegen,abbiegen,wir,biegen ab,отгибать
+de:abbiegen:praes.2pl:produce,abbiegen,abbiegen,ihr,biegt ab,отгибать
+de:abheben:praes.1sg:produce,abheben,abheben,ich,hebe ab,снимать
+de:abheben:praes.2sg:produce,abheben,abheben,du,hebst ab,снимать
+de:abheben:praes.3sg:produce,abheben,abheben,er,hebt ab,снимать
+de:abheben:praes.1pl:produce,abheben,abheben,wir,heben ab,снимать
+de:abheben:praes.2pl:produce,abheben,abheben,ihr,hebt ab,снимать
+de:anziehen:praes.1sg:produce,anziehen,anziehen,ich,ziehe an,одевать
+de:anziehen:praes.2sg:produce,anziehen,anziehen,du,ziehst an,одевать
+de:anziehen:praes.3sg:produce,anziehen,anziehen,er,zieht an,одевать
+de:anziehen:praes.1pl:produce,anziehen,anziehen,wir,ziehen an,одевать
+de:anziehen:praes.2pl:produce,anziehen,anziehen,ihr,zieht an,одевать
+de:aufraeumen:praes.1sg:produce,aufraeumen,aufräumen,ich,räume auf,убирать
+de:aufraeumen:praes.2sg:produce,aufraeumen,aufräumen,du,räumst auf,убирать
+de:aufraeumen:praes.3sg:produce,aufraeumen,aufräumen,er,räumt auf,убирать
+de:aufraeumen:praes.1pl:produce,aufraeumen,aufräumen,wir,räumen auf,убирать
+de:aufraeumen:praes.2pl:produce,aufraeumen,aufräumen,ihr,räumt auf,убирать
+de:aufwachen:praes.1sg:produce,aufwachen,aufwachen,ich,wache auf,просыпа́ться
+de:aufwachen:praes.2sg:produce,aufwachen,aufwachen,du,wachst auf,просыпа́ться
+de:aufwachen:praes.3sg:produce,aufwachen,aufwachen,er,wacht auf,просыпа́ться
+de:aufwachen:praes.1pl:produce,aufwachen,aufwachen,wir,wachen auf,просыпа́ться
+de:aufwachen:praes.2pl:produce,aufwachen,aufwachen,ihr,wacht auf,просыпа́ться
+de:ausziehen:praes.1sg:produce,ausziehen,ausziehen,ich,ziehe aus,съезжать
+de:ausziehen:praes.2sg:produce,ausziehen,ausziehen,du,ziehst aus,съезжать
+de:ausziehen:praes.3sg:produce,ausziehen,ausziehen,er,zieht aus,съезжать
+de:ausziehen:praes.1pl:produce,ausziehen,ausziehen,wir,ziehen aus,съезжать
+de:ausziehen:praes.2pl:produce,ausziehen,ausziehen,ihr,zieht aus,съезжать
+de:backen:praes.1sg:produce,backen,backen,ich,backe,печь
+de:backen:praes.2sg:produce,backen,backen,du,backst,печь
+de:backen:praes.3sg:produce,backen,backen,er,backt,печь
+de:backen:praes.1pl:produce,backen,backen,wir,backen,печь
+de:backen:praes.2pl:produce,backen,backen,ihr,backt,печь
+de:duschen:praes.1sg:produce,duschen,duschen,ich,dusche,принимать душ
+de:duschen:praes.2sg:produce,duschen,duschen,du,duschst,принимать душ
+de:duschen:praes.3sg:produce,duschen,duschen,er,duscht,принимать душ
+de:duschen:praes.1pl:produce,duschen,duschen,wir,duschen,принимать душ
+de:duschen:praes.2pl:produce,duschen,duschen,ihr,duscht,принимать душ
+de:husten:praes.1sg:produce,husten,husten,ich,huste,кашлять
+de:husten:praes.2sg:produce,husten,husten,du,hustest,кашлять
+de:husten:praes.3sg:produce,husten,husten,er,hustet,кашлять
+de:husten:praes.1pl:produce,husten,husten,wir,husten,кашлять
+de:husten:praes.2pl:produce,husten,husten,ihr,hustet,кашлять
+de:putzen:praes.1sg:produce,putzen,putzen,ich,putze,чистить
+de:putzen:praes.2sg:produce,putzen,putzen,du,putzt,чистить
+de:putzen:praes.3sg:produce,putzen,putzen,er,putzt,чистить
+de:putzen:praes.1pl:produce,putzen,putzen,wir,putzen,чистить
+de:putzen:praes.2pl:produce,putzen,putzen,ihr,putzt,чистить
+de:setzen:praes.1sg:produce,setzen,setzen,ich,setze,сажать
+de:setzen:praes.2sg:produce,setzen,setzen,du,setzt,сажать
+de:setzen:praes.3sg:produce,setzen,setzen,er,setzt,сажать
+de:setzen:praes.1pl:produce,setzen,setzen,wir,setzen,сажать
+de:setzen:praes.2pl:produce,setzen,setzen,ihr,setzt,сажать
+de:sparen:praes.1sg:produce,sparen,sparen,ich,spare,экономить
+de:sparen:praes.2sg:produce,sparen,sparen,du,sparst,экономить
+de:sparen:praes.3sg:produce,sparen,sparen,er,spart,экономить
+de:sparen:praes.1pl:produce,sparen,sparen,wir,sparen,экономить
+de:sparen:praes.2pl:produce,sparen,sparen,ihr,spart,экономить
+de:tragen:praes.1sg:produce,tragen,tragen,ich,trage,носить
+de:tragen:praes.2sg:produce,tragen,tragen,du,trägst,носить
+de:tragen:praes.3sg:produce,tragen,tragen,er,trägt,носить
+de:tragen:praes.1pl:produce,tragen,tragen,wir,tragen,носить
+de:tragen:praes.2pl:produce,tragen,tragen,ihr,tragt,носить
+de:umsteigen:praes.1sg:produce,umsteigen,umsteigen,ich,steige um,пересаживаться
+de:umsteigen:praes.2sg:produce,umsteigen,umsteigen,du,steigst um,пересаживаться
+de:umsteigen:praes.3sg:produce,umsteigen,umsteigen,er,steigt um,пересаживаться
+de:umsteigen:praes.1pl:produce,umsteigen,umsteigen,wir,steigen um,пересаживаться
+de:umsteigen:praes.2pl:produce,umsteigen,umsteigen,ihr,steigt um,пересаживаться
+de:waschen:praes.1sg:produce,waschen,waschen,ich,wasche,мыть
+de:waschen:praes.2sg:produce,waschen,waschen,du,wäschst,мыть
+de:waschen:praes.3sg:produce,waschen,waschen,er,wäscht,мыть
+de:waschen:praes.1pl:produce,waschen,waschen,wir,waschen,мыть
+de:waschen:praes.2pl:produce,waschen,waschen,ihr,wascht,мыть
+de:wechseln:praes.1sg:produce,wechseln,wechseln,ich,wechsle,менять
+de:wechseln:praes.2sg:produce,wechseln,wechseln,du,wechselst,менять
+de:wechseln:praes.3sg:produce,wechseln,wechseln,er,wechselt,менять
+de:wechseln:praes.1pl:produce,wechseln,wechseln,wir,wechseln,менять
+de:wechseln:praes.2pl:produce,wechseln,wechseln,ihr,wechselt,менять
+de:wehtun:praes.1sg:produce,wehtun,wehtun,ich,tue weh,болеть
+de:wehtun:praes.2sg:produce,wehtun,wehtun,du,tust weh,болеть
+de:wehtun:praes.3sg:produce,wehtun,wehtun,er,tut weh,болеть
+de:wehtun:praes.1pl:produce,wehtun,wehtun,wir,tun weh,болеть
+de:wehtun:praes.2pl:produce,wehtun,wehtun,ihr,tut weh,болеть
+de:ziehen:praes.1sg:produce,ziehen,ziehen,ich,ziehe,тянуть
+de:ziehen:praes.2sg:produce,ziehen,ziehen,du,ziehst,тянуть
+de:ziehen:praes.3sg:produce,ziehen,ziehen,er,zieht,тянуть
+de:ziehen:praes.1pl:produce,ziehen,ziehen,wir,ziehen,тянуть
+de:ziehen:praes.2pl:produce,ziehen,ziehen,ihr,zieht,тянуть

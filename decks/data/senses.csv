@@ -1818,3 +1818,331 @@ taxi:1,taxi,такси,,рука,своё
 verkaeufer:2,verkaeufer,продавец,,рука,своё
 vermieter:2,vermieter,арендодатель,,рука,своё
 wohnung:2,wohnung,квартира,,рука,своё
+bahnsteig:2,bahnsteig,платформа,,рука,своё
+hausfrau:3,hausfrau,домохозяйка,,рука,своё
+laden:7,laden,магазин,,рука,своё
+reisebuero:2,reisebuero,турагентство,,рука,своё
+schwimmbad:2,schwimmbad,бассейн,,рука,своё
+essen:4,essen,кушать,,рука,своё
+ausfuellen:2,ausfuellen,заполнить,,рука,своё
+ausmachen:6,ausmachen,выключить,,рука,своё
+brauchen:5,brauchen,нуждаться,,рука,своё
+buchstabieren:2,buchstabieren,прогрваривать по буквам,,рука,своё
+drucken:2,drucken,печатать,,рука,своё
+druecken:7,druecken,нажимать,,рука,своё
+duerfen:7,duerfen,разрешается,,рука,своё
+enden:3,enden,заканчивать,,рука,своё
+fahren:12,fahren,ехать,под вопросом,рука,своё
+fehlen:5,fehlen,ошибаться,,рука,своё
+holen:1,holen,нести,,рука,своё
+mieten:4,mieten,арендовать,,рука,своё
+moegen:8,moegen,нравиться,,рука,своё
+riechen:7,riechen,чуять запах,,рука,своё
+schwimmen:3,schwimmen,плавать,,рука,своё
+sollen:7,sollen,следует,,рука,своё
+telefonieren:2,telefonieren,говорить по телефону,"«телефонировать» и «окликать» — не то, чем эти слова пользуются; разведены, чтобы не совпасть друг с другом",рука,своё
+anrufen:4,anrufen,звонить,"«телефонировать» и «окликать» — не то, чем эти слова пользуются; разведены, чтобы не совпасть друг с другом",рука,своё
+spiegel:1,spiegel,зеркало,,kaikki-ru,CC BY-SA 4.0
+spiegel:2,spiegel,гидрол. зеркало (водоёма),,kaikki-ru,CC BY-SA 4.0
+markt:1,markt,"рынок во всех значениях, торг",,kaikki-ru,CC BY-SA 4.0
+markt:2,markt,торжище,,kaikki-ru,CC BY-SA 4.0
+schnee:1,schnee,метеорол. снег,,kaikki-ru,CC BY-SA 4.0
+schnee:2,schnee,"перен., жарг., разг. «снежок», наркотик в виде белого порошка, кокаин, героин",,kaikki-ru,CC BY-SA 4.0
+schnee:3,schnee,перен. помехи,,kaikki-ru,CC BY-SA 4.0
+schnee:4,schnee,сокращение от Eischnee,,kaikki-ru,CC BY-SA 4.0
+schiff:1,schiff,"судно, корабль",,kaikki-ru,CC BY-SA 4.0
+schiff:2,schiff,"архит. неф, корабль.",,kaikki-ru,CC BY-SA 4.0
+boden:1,boden,"земля, грунт, почва",,kaikki-ru,CC BY-SA 4.0
+boden:2,boden,пол (тж. Fußboden),,kaikki-ru,CC BY-SA 4.0
+boden:3,boden,дно (ср. Meeresboden),,kaikki-ru,CC BY-SA 4.0
+boden:4,boden,днище (ср. Faßboden),,kaikki-ru,CC BY-SA 4.0
+boden:5,boden,регион. чердак (упрощ. от Dachboden),,kaikki-ru,CC BY-SA 4.0
+herz:1,herz,анат. сердце,,kaikki-ru,CC BY-SA 4.0
+herz:2,herz,"изображение, символ сердца",,kaikki-ru,CC BY-SA 4.0
+herz:3,herz,"фигура, объект, предмет в форме сердца",,kaikki-ru,CC BY-SA 4.0
+herz:4,herz,гастрон. сердце животных как пища,,kaikki-ru,CC BY-SA 4.0
+herz:5,herz,"перен. сердце, душа, любовь; тж. как обращение",,kaikki-ru,CC BY-SA 4.0
+herz:6,herz,"перен. сердце, центр",,kaikki-ru,CC BY-SA 4.0
+herz:7,herz,"карт. черви, червы (масть)",,kaikki-ru,CC BY-SA 4.0
+herz:8,herz,ботан. сердцевина,,kaikki-ru,CC BY-SA 4.0
+wolke:1,wolke,"облако, туча",,kaikki-ru,CC BY-SA 4.0
+finger:1,finger,"палец на руке, перст",,kaikki-ru,CC BY-SA 4.0
+finger:2,finger,"техн. палец, кулачок, штифт",,kaikki-ru,CC BY-SA 4.0
+winter:1,winter,зима,,kaikki-ru,CC BY-SA 4.0
+wechselgeld:1,wechselgeld,размена о деньгах,,kaikki-ru,CC BY-SA 4.0
+wechselgeld:2,wechselgeld,разг. сдача о деньгах,,kaikki-ru,CC BY-SA 4.0
+krankheit:1,krankheit,"болезнь, заболевание, недуг",,kaikki-ru,CC BY-SA 4.0
+gesundheit:1,gesundheit,здоровье,,kaikki-ru,CC BY-SA 4.0
+gesundheit:2,gesundheit,будь(те) здоров(a/ы)!,,kaikki-ru,CC BY-SA 4.0
+apotheke:1,apotheke,аптека,,kaikki-ru,CC BY-SA 4.0
+sommer:1,sommer,лето,,kaikki-ru,CC BY-SA 4.0
+fruehling:1,fruehling,весна,,kaikki-ru,CC BY-SA 4.0
+museum:1,museum,музей,,kaikki-ru,CC BY-SA 4.0
+abendessen:1,abendessen,ужин,,kaikki-ru,CC BY-SA 4.0
+badezimmer:1,badezimmer,ванная комната; ванная,,kaikki-ru,CC BY-SA 4.0
+bargeld:1,bargeld,наличные деньги,,kaikki-ru,CC BY-SA 4.0
+ampel:1,ampel,висячая лампа,,kaikki-ru,CC BY-SA 4.0
+ampel:2,ampel,светофор,,kaikki-ru,CC BY-SA 4.0
+ampel:3,ampel,подвесная ваза (для цветов),,kaikki-ru,CC BY-SA 4.0
+blut:1,blut,"кровь (мн. ч. только в спец. литературе, разг. только ед. ч.)",,kaikki-ru,CC BY-SA 4.0
+blut:2,blut,устар. человек,,kaikki-ru,CC BY-SA 4.0
+blut:3,blut,"устар. происхождение, род",,kaikki-ru,CC BY-SA 4.0
+blut:4,blut,"темперамент, нрав, характер; склад души",,kaikki-ru,CC BY-SA 4.0
+antrag:1,antrag,"предложение; требование; заявление, ходатайство",,kaikki-ru,CC BY-SA 4.0
+antrag:2,antrag,экон. оферт (оферта),,kaikki-ru,CC BY-SA 4.0
+antrag:3,antrag,предложение (о браке),,kaikki-ru,CC BY-SA 4.0
+feiertag:1,feiertag,праздник,,kaikki-ru,CC BY-SA 4.0
+feiertag:2,feiertag,"выходной день; нерабочий день, день отдыха",,kaikki-ru,CC BY-SA 4.0
+decke:1,decke,"покров, покрытие",,kaikki-ru,CC BY-SA 4.0
+decke:2,decke,"одеяло, покрывало; плед",,kaikki-ru,CC BY-SA 4.0
+decke:3,decke,скатерть,,kaikki-ru,CC BY-SA 4.0
+decke:4,decke,потолок,,kaikki-ru,CC BY-SA 4.0
+gramm:1,gramm,грамм,,kaikki-ru,CC BY-SA 4.0
+hals:1,hals,шея,,kaikki-ru,CC BY-SA 4.0
+hals:2,hals,"горло, глотка",,kaikki-ru,CC BY-SA 4.0
+hals:3,hals,горлышко (бутылки),,kaikki-ru,CC BY-SA 4.0
+grippe:1,grippe,грипп,,kaikki-ru,CC BY-SA 4.0
+haut:1,haut,анат. кожа,,kaikki-ru,CC BY-SA 4.0
+haut:2,haut,"кожа (материал), шкура",,kaikki-ru,CC BY-SA 4.0
+haut:3,haut,"плёнка, пенка (на жидкостях)",,kaikki-ru,CC BY-SA 4.0
+haut:4,haut,"оболочка; обшивка; кожица, шкурка, кожура",,kaikki-ru,CC BY-SA 4.0
+haut:5,haut,перен. жизнь; шкура; живот; голова,,kaikki-ru,CC BY-SA 4.0
+jahreszeit:1,jahreszeit,время года,,kaikki-ru,CC BY-SA 4.0
+herbst:1,herbst,осень,,kaikki-ru,CC BY-SA 4.0
+keller:1,keller,"погреб, подвал",,kaikki-ru,CC BY-SA 4.0
+keller:2,keller,"воен., сокр. от Luftschutzkeller: бомбоубежище (подвального типа)",,kaikki-ru,CC BY-SA 4.0
+keller:3,keller,"информ. то же, что стек; структура данных",,kaikki-ru,CC BY-SA 4.0
+nachbar:1,nachbar,сосед,,kaikki-ru,CC BY-SA 4.0
+nachbar:2,nachbar,"в качестве приставки «Nachbar-»: соседний, соседский; в качестве приставки «Nachbars-»: соседский",,kaikki-ru,CC BY-SA 4.0
+nachbarin:1,nachbarin,соседка,,kaikki-ru,CC BY-SA 4.0
+nachmittag:1,nachmittag,послеобеденное время,,kaikki-ru,CC BY-SA 4.0
+nachmittag:2,nachmittag,"пополудни, время после полудня, вторая половина дня, после полудня",,kaikki-ru,CC BY-SA 4.0
+nacht:1,nacht,ночь,,kaikki-ru,CC BY-SA 4.0
+nacht:2,nacht,"перен. тьма, темнота, мрак",,kaikki-ru,CC BY-SA 4.0
+kilo:1,kilo,разг. кило,,kaikki-ru,CC BY-SA 4.0
+liter:1,liter,литр,,kaikki-ru,CC BY-SA 4.0
+nase:1,nase,анат. нос,,kaikki-ru,CC BY-SA 4.0
+nase:2,nase,"чутьё, нюх, обоняние",,kaikki-ru,CC BY-SA 4.0
+nase:3,nase,"носовая (передняя) часть, нос (судна, самолёта и т. п.)",,kaikki-ru,CC BY-SA 4.0
+nase:4,nase,"предмет, объект похожий на нос",,kaikki-ru,CC BY-SA 4.0
+nase:5,nase,ихтиол. обыкновенный подуст (Chondrostoma nasus),,kaikki-ru,CC BY-SA 4.0
+knie:1,knie,анат. колено,,kaikki-ru,CC BY-SA 4.0
+knie:2,knie,перен. колено (часть одежды),,kaikki-ru,CC BY-SA 4.0
+knie:3,knie,"изгиб (реки, дороги и т. п.), лука́",,kaikki-ru,CC BY-SA 4.0
+knie:4,knie,техн. колено (трубы),,kaikki-ru,CC BY-SA 4.0
+medikament:1,medikament,"мед., фарм. медикамент, лекарство",,kaikki-ru,CC BY-SA 4.0
+ohr:1,ohr,"анат. ухо, ушная раковина",,kaikki-ru,CC BY-SA 4.0
+ohr:2,ohr,слух,,kaikki-ru,CC BY-SA 4.0
+ohr:3,ohr,"техн. ушко, глазок, проушина, серьга",,kaikki-ru,CC BY-SA 4.0
+ohr:4,ohr,загнутый угол страницы,,kaikki-ru,CC BY-SA 4.0
+onkel:1,onkel,дядя (брат отца или матери),,kaikki-ru,CC BY-SA 4.0
+krankenhaus:1,krankenhaus,мед. больница; лечебница,,kaikki-ru,CC BY-SA 4.0
+mittag:1,mittag,полдень,,kaikki-ru,CC BY-SA 4.0
+mittag:2,mittag,"юг, полуденные страны",,kaikki-ru,CC BY-SA 4.0
+mittag:3,mittag,обед; обеденный перерыв,,kaikki-ru,CC BY-SA 4.0
+mittagessen:1,mittagessen,обед (еда),,kaikki-ru,CC BY-SA 4.0
+regal:1,regal,шкаф полка для книг,,kaikki-ru,CC BY-SA 4.0
+motorrad:1,motorrad,мотоцикл,,kaikki-ru,CC BY-SA 4.0
+schein:1,schein,"свет, сияние; мерцание; блеск (металла и т. п.)",,kaikki-ru,CC BY-SA 4.0
+schein:2,schein,"внешность, внешний вид",,kaikki-ru,CC BY-SA 4.0
+schein:3,schein,видимость,,kaikki-ru,CC BY-SA 4.0
+schein:4,schein,"свидетельство, удостоверение",,kaikki-ru,CC BY-SA 4.0
+schein:5,schein,"расписка, квитанция",,kaikki-ru,CC BY-SA 4.0
+schein:6,schein,"сокр. от Geldschein; купюра, банкнота",,kaikki-ru,CC BY-SA 4.0
+tante:1,tante,"тётя, тётка (родственница)",,kaikki-ru,CC BY-SA 4.0
+tante:2,tante,тётя (незнакомая женщина),,kaikki-ru,CC BY-SA 4.0
+tante:3,tante,"разг. баба, девка",,kaikki-ru,CC BY-SA 4.0
+richtung:1,richtung,"направление, курс",,kaikki-ru,CC BY-SA 4.0
+richtung:2,richtung,"направление, течение (в искусстве, политике и т. п.)",,kaikki-ru,CC BY-SA 4.0
+richtung:3,richtung,воен. равнение,,kaikki-ru,CC BY-SA 4.0
+richtung:4,richtung,выравнивание,,kaikki-ru,CC BY-SA 4.0
+schlafzimmer:1,schlafzimmer,спальня,,kaikki-ru,CC BY-SA 4.0
+temperatur:1,temperatur,физ. температура,,kaikki-ru,CC BY-SA 4.0
+temperatur:2,temperatur,"мед., разг. температура, жар",,kaikki-ru,CC BY-SA 4.0
+schmerz:1,schmerz,физиол. боль,,kaikki-ru,CC BY-SA 4.0
+schmerz:2,schmerz,"перен. скорбь, горе, печаль",,kaikki-ru,CC BY-SA 4.0
+schokolade:1,schokolade,шоколад,,kaikki-ru,CC BY-SA 4.0
+wand:1,wand,стена,,kaikki-ru,CC BY-SA 4.0
+zahn:1,zahn,анат. зуб,,kaikki-ru,CC BY-SA 4.0
+zahn:2,zahn,"техн. зуб, зубец (механизма, режущего инструмента, шестерни и т. п.)",,kaikki-ru,CC BY-SA 4.0
+zahn:3,zahn,"зубец (напр., у почтовой марки); выступ, зубчатая часть",,kaikki-ru,CC BY-SA 4.0
+zahn:4,zahn,разг. высокая скорость,,kaikki-ru,CC BY-SA 4.0
+zahn:5,zahn,"разг., устар. девушка, молоденькая женщина",,kaikki-ru,CC BY-SA 4.0
+wochenende:1,wochenende,"выходные, уик-энд, конец недели",,kaikki-ru,CC BY-SA 4.0
+wohnzimmer:1,wohnzimmer,жилая комната,,kaikki-ru,CC BY-SA 4.0
+wohnzimmer:2,wohnzimmer,гостиная,,kaikki-ru,CC BY-SA 4.0
+wurst:1,wurst,колбаса,,kaikki-ru,CC BY-SA 4.0
+wurst:2,wurst,техн. цилиндрическая фашина,,kaikki-ru,CC BY-SA 4.0
+zucker:1,zucker,сахар,,kaikki-ru,CC BY-SA 4.0
+zucker:2,zucker,"хим. сахар, углевод, сахариды",,kaikki-ru,CC BY-SA 4.0
+zucker:3,zucker,разг. ед. ч. (сахарный) диабет (сокр. от Zuckerkrankheit),,kaikki-ru,CC BY-SA 4.0
+zucker:4,zucker,"мед.жарг. ед. ч. содержание, уровень сахара (глюкозы) в крови (сокр. от Blutzuckerspiegel)",,kaikki-ru,CC BY-SA 4.0
+vormittag:1,vormittag,"дополуденное время, первая половина дня, до обеда",,kaikki-ru,CC BY-SA 4.0
+supermarkt:1,supermarkt,супермаркет,,kaikki-ru,CC BY-SA 4.0
+suppe:1,suppe,"гастрон. суп, похлёбка",,kaikki-ru,CC BY-SA 4.0
+suppe:2,suppe,"разг. жижа, слякоть, месиво",,kaikki-ru,CC BY-SA 4.0
+suppe:3,suppe,"разг. густой туман, молоко",,kaikki-ru,CC BY-SA 4.0
+bruecke:1,bruecke,мост,,kaikki-ru,CC BY-SA 4.0
+buero:1,buero,"бюро, офис, рабочее место",,kaikki-ru,CC BY-SA 4.0
+gebuehr:1,gebuehr,"плата, взнос",,kaikki-ru,CC BY-SA 4.0
+erkaeltung:1,erkaeltung,мед. простуда,,kaikki-ru,CC BY-SA 4.0
+muenze:1,muenze,монета,,kaikki-ru,CC BY-SA 4.0
+muenze:2,muenze,медаль,,kaikki-ru,CC BY-SA 4.0
+muenze:3,muenze,жетон для автоматов,,kaikki-ru,CC BY-SA 4.0
+muenze:4,muenze,перен. материальная выгода,,kaikki-ru,CC BY-SA 4.0
+koerper:1,koerper,"анат. тело, туловище, корпус; организм",,kaikki-ru,CC BY-SA 4.0
+koerper:2,koerper,физ. матем. тело,,kaikki-ru,CC BY-SA 4.0
+koerper:3,koerper,"живоп. колоритность, сочность",,kaikki-ru,CC BY-SA 4.0
+koerper:4,koerper,"то же, что Körperschaft (корпорация)",,kaikki-ru,CC BY-SA 4.0
+stueck:1,stueck,кусок; часть,,kaikki-ru,CC BY-SA 4.0
+stueck:2,stueck,штука (единица счёта); экземпляр,,kaikki-ru,CC BY-SA 4.0
+stueck:3,stueck,муз. пьеса,,kaikki-ru,CC BY-SA 4.0
+ruecken:1,ruecken,"спина, хребет",,kaikki-ru,CC BY-SA 4.0
+ruecken:2,ruecken,воен. тыл,,kaikki-ru,CC BY-SA 4.0
+ruecken:3,ruecken,"спинка (одежды, мебели и т. п.)",,kaikki-ru,CC BY-SA 4.0
+ruecken:4,ruecken,"горный хребет, гребень",,kaikki-ru,CC BY-SA 4.0
+ruecken:5,ruecken,корешок (книги),,kaikki-ru,CC BY-SA 4.0
+ruecken:6,ruecken,тыльная сторона (руки); подъём (стопы),,kaikki-ru,CC BY-SA 4.0
+ruecken:7,ruecken,обух (топора); тупая сторона (ножа),,kaikki-ru,CC BY-SA 4.0
+fuehrerschein:1,fuehrerschein,"водительское удостоверение, водительские права",,kaikki-ru,CC BY-SA 4.0
+flur:1,flur,передняя; прихожая; холл; вестибюль; сени,,kaikki-ru,CC BY-SA 4.0
+flur:2,flur,коридор,,kaikki-ru,CC BY-SA 4.0
+lohn:1,lohn,"заработная плата, зарплата; жалованье",,kaikki-ru,CC BY-SA 4.0
+lohn:2,lohn,"награда, вознаграждение",,kaikki-ru,CC BY-SA 4.0
+lohn:3,lohn,перен. возмездие,,kaikki-ru,CC BY-SA 4.0
+tankstelle:1,tankstelle,"бензозаправка, бензоколонка",,kaikki-ru,CC BY-SA 4.0
+teppich:1,teppich,ковёр,,kaikki-ru,CC BY-SA 4.0
+theater:1,theater,"театр (здание, в котором ставятся спектакли)",,kaikki-ru,CC BY-SA 4.0
+theater:2,theater,"театральное представление, спектакль",,kaikki-ru,CC BY-SA 4.0
+theater:3,theater,"театр (учреждение культуры, организация)",,kaikki-ru,CC BY-SA 4.0
+theater:4,theater,театр (коллектив театра),,kaikki-ru,CC BY-SA 4.0
+theater:5,theater,"театр, театральное искусство, сцена",,kaikki-ru,CC BY-SA 4.0
+theater:6,theater,"перен. разг. неодобр. комедия (притворство), театральность",,kaikki-ru,CC BY-SA 4.0
+theater:7,theater,"перен. разг. сцена, скандал, представление, шум",,kaikki-ru,CC BY-SA 4.0
+universitaet:1,universitaet,университет,,kaikki-ru,CC BY-SA 4.0
+universitaet:2,universitaet,собир. университет (преподаватели и студенты),,kaikki-ru,CC BY-SA 4.0
+universitaet:3,universitaet,университет (о здании учебного заведения),,kaikki-ru,CC BY-SA 4.0
+duschen:1,duschen,sich ~ принимать душ,,kaikki-ru,CC BY-SA 4.0
+duschen:2,duschen,поставить под душ,,kaikki-ru,CC BY-SA 4.0
+duschen:3,duschen,"перен. охладить (чей-л.) пыл, вылить (кому-л.) ушат холодной воды на голову",,kaikki-ru,CC BY-SA 4.0
+putzen:1,putzen,"чистить, очищать",,kaikki-ru,CC BY-SA 4.0
+setzen:1,setzen,"сажать (посадить); ставить; устанавливать; класть, помещать",,kaikki-ru,CC BY-SA 4.0
+setzen:2,setzen,сажать (растения),,kaikki-ru,CC BY-SA 4.0
+setzen:3,setzen,делать ставку (в игре),,kaikki-ru,CC BY-SA 4.0
+setzen:4,setzen,полигр. набирать,,kaikki-ru,CC BY-SA 4.0
+setzen:5,setzen,класть на музыку (текст),,kaikki-ru,CC BY-SA 4.0
+setzen:6,setzen,"приносить детёнышей, котиться (о зайцах и т. п.)",,kaikki-ru,CC BY-SA 4.0
+setzen:7,setzen,"неперех. перескакивать, перепрыгивать (через что-либо); преодолевать (что-либо)",,kaikki-ru,CC BY-SA 4.0
+setzen:8,setzen,садиться,,kaikki-ru,CC BY-SA 4.0
+setzen:9,setzen,"оседать, отстаиваться, опадать, спадать",,kaikki-ru,CC BY-SA 4.0
+abbiegen:1,abbiegen,"отгибать, разгибать гнуть, изгибать, искривлять, деформировать протяженный объект, придавая ему дугообразную форму или излом",,kaikki-ru,CC BY-SA 4.0
+abbiegen:2,abbiegen,"поворачивать, сворачивать, менять направление своего движения или течения",,kaikki-ru,CC BY-SA 4.0
+abbiegen:3,abbiegen,"перен. разг. отвести, предупредить (что-либо неприятное)",,kaikki-ru,CC BY-SA 4.0
+abbiegen:4,abbiegen,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола abbiegen,,kaikki-ru,CC BY-SA 4.0
+abbiegen:5,abbiegen,форма настоящего времени третьего лица множественного числа изъявительного наклонения глагола abbiegen,,kaikki-ru,CC BY-SA 4.0
+aufwachen:1,aufwachen,"просыпа́ться, пробуждаться",,kaikki-ru,CC BY-SA 4.0
+ausziehen:1,ausziehen,съезжать,,kaikki-ru,CC BY-SA 4.0
+ausziehen:2,ausziehen,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола ausziehen,,kaikki-ru,CC BY-SA 4.0
+ausziehen:3,ausziehen,форма настоящего времени третьего лица множественного числа изъявительного наклонения глагола ausziehen,,kaikki-ru,CC BY-SA 4.0
+backen:1,backen,"печь, выпекать (хлеб); запекать (рыбу, мясо); жарить (блины, рыбу); сушить (фрукты)",,kaikki-ru,CC BY-SA 4.0
+backen:2,backen,техн. спекать; коксовать (уголь); обжигать (кирпич); цементировать (железо при закалке),,kaikki-ru,CC BY-SA 4.0
+husten:1,husten,кашлять,,kaikki-ru,CC BY-SA 4.0
+sparen:1,sparen,"экономить, сберегать, копить",,kaikki-ru,CC BY-SA 4.0
+sparen:2,sparen,"sich + A + sparen: обходиться без; держать при себе шутку, сарказм и т. п.; не напрягаться, не стараться (зря)",,kaikki-ru,CC BY-SA 4.0
+tragen:1,tragen,"носить, нести; переносить; держать",,kaikki-ru,CC BY-SA 4.0
+tragen:2,tragen,"носить (одежду, причёску и т. п.)",,kaikki-ru,CC BY-SA 4.0
+tragen:3,tragen,"перен. носить в себе, вынашивать",,kaikki-ru,CC BY-SA 4.0
+tragen:4,tragen,"иметь, обладать",,kaikki-ru,CC BY-SA 4.0
+tragen:5,tragen,"переносить, передавать, распространять",,kaikki-ru,CC BY-SA 4.0
+tragen:6,tragen,"приносить, давать (плоды, доход и т. п.)",,kaikki-ru,CC BY-SA 4.0
+tragen:7,tragen,"переносить, терпеть, испытывать",,kaikki-ru,CC BY-SA 4.0
+waschen:1,waschen,мыть; стирать; обмывать; промывать,,kaikki-ru,CC BY-SA 4.0
+waschen:2,waschen,"горн. промывать, обогащать промывкой",,kaikki-ru,CC BY-SA 4.0
+waschen:3,waschen,"диал. сплетничать, болтать (о чём-л.)",,kaikki-ru,CC BY-SA 4.0
+waschen:4,waschen,"(sich) мыться, умываться",,kaikki-ru,CC BY-SA 4.0
+wechseln:1,wechseln,менять; обменивать,,kaikki-ru,CC BY-SA 4.0
+wechseln:2,wechseln,обмениваться (чем-л.),,kaikki-ru,CC BY-SA 4.0
+wechseln:3,wechseln,"разменивать, менять (деньги)",,kaikki-ru,CC BY-SA 4.0
+wechseln:4,wechseln,меняться,,kaikki-ru,CC BY-SA 4.0
+wechseln:5,wechseln,"(mit D) чередоваться (с кем-л., с чем-л.); сменяться (чем-л.)",,kaikki-ru,CC BY-SA 4.0
+wechseln:6,wechseln,менять местожительство; блуждать; кочевать,,kaikki-ru,CC BY-SA 4.0
+wechseln:7,wechseln,кружить (о преследуемой дичи); менять место,,kaikki-ru,CC BY-SA 4.0
+ziehen:1,ziehen,"тянуть (за собой), тащить",,kaikki-ru,CC BY-SA 4.0
+ziehen:2,ziehen,дёргать,,kaikki-ru,CC BY-SA 4.0
+ziehen:3,ziehen,"вытаскивать, вынимать; выдёргивать, вырывать; доставать",,kaikki-ru,CC BY-SA 4.0
+ziehen:4,ziehen,натягивать; надевать; нанизывать,,kaikki-ru,CC BY-SA 4.0
+ziehen:5,ziehen,"стаскивать, снимать",,kaikki-ru,CC BY-SA 4.0
+alltag:1,alltag,"будний день, будни",,kaikki-ru,CC BY-SA 4.0
+alltag:2,alltag,"перен. быт, обиход, повседневная жизнь",,kaikki-ru,CC BY-SA 4.0
+aufenthalt:1,aufenthalt,пребывание,,kaikki-ru,CC BY-SA 4.0
+aufenthalt:2,aufenthalt,остановка,,kaikki-ru,CC BY-SA 4.0
+aufenthalt:3,aufenthalt,стоянка,,kaikki-ru,CC BY-SA 4.0
+aufenthalt:4,aufenthalt,задержка,,kaikki-ru,CC BY-SA 4.0
+aufenthalt:5,aufenthalt,ожидание,,kaikki-ru,CC BY-SA 4.0
+kaese:1,kaese,сыр,,kaikki-ru,CC BY-SA 4.0
+kaese:2,kaese,творог,,kaikki-ru,CC BY-SA 4.0
+kaese:3,kaese,"разг. бессмыслица, вздор, нелепость, чепуха, ерунда",,kaikki-ru,CC BY-SA 4.0
+tablette:1,tablette,мед. таблетка,,kaikki-ru,CC BY-SA 4.0
+parkplatz:1,parkplatz,"парковка, стоянка (место стоянки автомобилей)",,kaikki-ru,CC BY-SA 4.0
+kinderzimmer:1,kinderzimmer,детская комната,,kaikki-ru,CC BY-SA 4.0
+ueberweisung:1,ueberweisung,"перевод, перечисление (денег)",,kaikki-ru,CC BY-SA 4.0
+ueberweisung:2,ueberweisung,"передача, отсылка, направление (кого-л., чего-л., напр. к врачу, на лечение и т. д.)",,kaikki-ru,CC BY-SA 4.0
+ueberweisung:3,ueberweisung,"устар. уличение, изобличение",,kaikki-ru,CC BY-SA 4.0
+fahrplan:1,fahrplan,"расписание, график (движения транспорта)",,kaikki-ru,CC BY-SA 4.0
+staatsangehoerigkeit:1,staatsangehoerigkeit,"гражданство, подданство",,kaikki-ru,CC BY-SA 4.0
+kreuzung:1,kreuzung,"пересечение, скрещение (напр., дорог, путей); перекрёсток; переезд",,kaikki-ru,CC BY-SA 4.0
+kreuzung:2,kreuzung,ж.-д. рельсовая крестовина,,kaikki-ru,CC BY-SA 4.0
+kreuzung:3,kreuzung,эл.-техн. транспозиция (проводов линии передачи),,kaikki-ru,CC BY-SA 4.0
+kreuzung:4,kreuzung,"биол., с.-х. скрещивание, метизация",,kaikki-ru,CC BY-SA 4.0
+kreuzung:5,kreuzung,"мед. перекрест (напр., зрительных нервов, нервных волокон в нервной ткани)",,kaikki-ru,CC BY-SA 4.0
+anziehen:1,anziehen,"одевать, облачать (кого-л.); надевать (одежду)",,kaikki-ru,CC BY-SA 4.0
+anziehen:2,anziehen,притягивать,,kaikki-ru,CC BY-SA 4.0
+anziehen:3,anziehen,"привлекать, интересовать; пленять",,kaikki-ru,CC BY-SA 4.0
+anziehen:4,anziehen,"высок. приводить, цитировать; ссылаться (на что-либо)",,kaikki-ru,CC BY-SA 4.0
+anziehen:5,anziehen,"натягивать, подтягивать; зажимать; подвинчивать",,kaikki-ru,CC BY-SA 4.0
+anziehen:6,anziehen,"тянуть, трогать, приводить в движение",,kaikki-ru,CC BY-SA 4.0
+anziehen:7,anziehen,"(s) (тж. angezogen kommen) приближаться, надвигаться",,kaikki-ru,CC BY-SA 4.0
+anziehen:8,anziehen,"(h) подниматься, расти (б. ч. о ценах); усиливаться, обостряться",,kaikki-ru,CC BY-SA 4.0
+anziehen:9,anziehen,"(h) тянуть, трогать с места",,kaikki-ru,CC BY-SA 4.0
+anziehen:10,anziehen,(h) начинать действовать; забирать (разг.),,kaikki-ru,CC BY-SA 4.0
+anziehen:11,anziehen,(h) схватываться (о цементе),,kaikki-ru,CC BY-SA 4.0
+anziehen:12,anziehen,(h) делать первый ход (в шахматах),,kaikki-ru,CC BY-SA 4.0
+anziehen:13,anziehen,(h) брать след (о собаке),,kaikki-ru,CC BY-SA 4.0
+anziehen:14,anziehen,ускорять темп,,kaikki-ru,CC BY-SA 4.0
+anziehen:15,anziehen,sich ~ одеваться,,kaikki-ru,CC BY-SA 4.0
+anziehen:16,anziehen,sich ~ подтягиваться,,kaikki-ru,CC BY-SA 4.0
+anziehen:17,anziehen,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола anziehen,,kaikki-ru,CC BY-SA 4.0
+anziehen:18,anziehen,форма настоящего времени третьего лица множественного числа изъявительного наклонения глагола anziehen,,kaikki-ru,CC BY-SA 4.0
+aufraeumen:1,aufraeumen,"убирать, прибирать; делать уборку, наводить порядок; расчищать, производить расчистку",,kaikki-ru,CC BY-SA 4.0
+aufraeumen:2,aufraeumen,"(mit D) покончить (с чем-л., с кем-л.), положить конец (чему-л.)",,kaikki-ru,CC BY-SA 4.0
+aufraeumen:3,aufraeumen,производить опустошения; свирепствовать,,kaikki-ru,CC BY-SA 4.0
+besprechung:1,besprechung,обсуждение; дискуссия,,kaikki-ru,CC BY-SA 4.0
+besprechung:2,besprechung,"совещание, конференция",,kaikki-ru,CC BY-SA 4.0
+besprechung:3,besprechung,рецензия; рецензирование,,kaikki-ru,CC BY-SA 4.0
+besprechung:4,besprechung,"заклинание, заговор",,kaikki-ru,CC BY-SA 4.0
+umsteigen:1,umsteigen,"(in A) пересаживаться, пересесть (на другой поезд, в другой вагон)",,kaikki-ru,CC BY-SA 4.0
+umsteigen:2,umsteigen,форма настоящего времени первого лица множественного числа изъявительного наклонения глагола umsteigen,,kaikki-ru,CC BY-SA 4.0
+umsteigen:3,umsteigen,форма настоящего времени третьего лица множественного числа изъявительного наклонения глагола umsteigen,,kaikki-ru,CC BY-SA 4.0
+abheben:1,abheben,снимать; приподнимать,,kaikki-ru,CC BY-SA 4.0
+abheben:2,abheben,"отрываться от земли, подниматься в воздух",,kaikki-ru,CC BY-SA 4.0
+abheben:3,abheben,(sich) (von D) выделяться (на фоне чего-л.),,kaikki-ru,CC BY-SA 4.0
+uhrzeit:1,uhrzeit,время (по часам); час,,kaikki-ru,CC BY-SA 4.0
+rezept:1,rezept,"рецепт, предписание (врача); способ приготовления",,kaikki-ru,CC BY-SA 4.0
+geburtsdatum:1,geburtsdatum,дата рождения,,kaikki-ru,CC BY-SA 4.0
+packung:1,packung,упаковка (тара),,kaikki-ru,CC BY-SA 4.0
+packung:2,packung,пачка,,kaikki-ru,CC BY-SA 4.0
+packung:3,packung,"упаковка, укладка",,kaikki-ru,CC BY-SA 4.0
+packung:4,packung,"мед. обёртывание, укутывание",,kaikki-ru,CC BY-SA 4.0
+packung:5,packung,"техн. набивка, уплотнение; прокладка",,kaikki-ru,CC BY-SA 4.0
+kreditkarte:1,kreditkarte,кредитная карточка,,kaikki-ru,CC BY-SA 4.0
+visum:1,visum,виза,,kaikki-ru,CC BY-SA 4.0
+cent:1,cent,цент (монета),,kaikki-ru,CC BY-SA 4.0
+nudeln:1,nudeln,"форма именительного, родительного, дательного или винительного падежа множественного числа существительного Nudel",,kaikki-ru,CC BY-SA 4.0
+kosten-noun:1,kosten-noun,затраты,,kaikki-ru,CC BY-SA 4.0
+weg-noun:1,weg-noun,"дорога, путь",,kaikki-ru,CC BY-SA 4.0
+weg-noun:2,weg-noun,"путь, направление",,kaikki-ru,CC BY-SA 4.0
+weg-noun:3,weg-noun,"путь; поездка, путешествие",,kaikki-ru,CC BY-SA 4.0
+weg-noun:4,weg-noun,"путь, расстояние",,kaikki-ru,CC BY-SA 4.0
+weg-noun:5,weg-noun,"путь, способ, средство",,kaikki-ru,CC BY-SA 4.0
+husten-noun:1,husten-noun,кашель,,kaikki-ru,CC BY-SA 4.0
+wehtun:1,wehtun,болеть,в русском Wiktionary статьи нет: пишется раздельно (weh tun),рука,своё

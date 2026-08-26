@@ -12,8 +12,9 @@ CC BY (требует только упоминания), и при выносе
 
 | Источник | Лицензия | Строк |
 |---|---|---|
-| Leipzig deu_news_2024_1M | CC BY 4.0 | 789 |
-| kaikki-en | CC BY-SA 4.0 | 28992 |
-| kaikki-ru | CC BY-SA 4.0 | 1779 |
-| tatoeba | CC BY 2.0 FR | 2288 |
-| рука | своё | 37 |
+| Leipzig deu_news_2024_1M | CC BY 4.0 | 910 |
+| Tatoeba deu | CC BY 2.0 FR | 910 |
+| kaikki-en | CC BY-SA 4.0 | 32091 |
+| kaikki-ru | CC BY-SA 4.0 | 2082 |
+| tatoeba | CC BY 2.0 FR | 2881 |
+| рука | своё | 62 |
