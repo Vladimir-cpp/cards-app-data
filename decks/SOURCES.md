@@ -16,3 +16,4 @@ CC BY (требует только упоминания), и при выносе
 | kaikki-en | CC BY-SA 4.0 | 28992 |
 | kaikki-ru | CC BY-SA 4.0 | 1779 |
 | tatoeba | CC BY 2.0 FR | 2288 |
+| рука | своё | 37 |

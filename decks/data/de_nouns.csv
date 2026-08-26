@@ -6,11 +6,11 @@ de:buch:_:genus,buch,Buch,das,книга
 de:stuhl:_:genus,stuhl,Stuhl,der,стул
 de:tuer:_:genus,tuer,Tür,die,дверь
 de:fenster:_:genus,fenster,Fenster,das,окно
-de:schluessel:_:genus,schluessel,Schlüssel,der,ключ
+de:schluessel:_:genus,schluessel,Schlüssel,der,ключ от замка
 de:strasse:_:genus,strasse,Straße,die,улица
-de:auto:_:genus,auto,Auto,das,машина
+de:auto:_:genus,auto,Auto,das,автомобиль
 de:baum:_:genus,baum,Baum,der,дерево
-de:blume:_:genus,blume,Blume,die,цветок
+de:blume:_:genus,blume,Blume,die,цвет
 de:wasser:_:genus,wasser,Wasser,das,вода
 de:loeffel:_:genus,loeffel,Löffel,der,ложка
 de:gabel:_:genus,gabel,Gabel,die,вилка
@@ -24,20 +24,14 @@ de:abflug:_:genus,abflug,Abflug,der,вылет
 de:absender:_:genus,absender,Absender,der,отправитель
 de:achtung:_:genus,achtung,Achtung,die,внимание
 de:adresse:_:genus,adresse,Adresse,die,адрес
-de:alter:_:genus,alter,Alter,das,возраст
 de:anfang:_:genus,anfang,Anfang,der,начало
 de:angebot:_:genus,angebot,Angebot,das,предложение
 de:ankunft:_:genus,ankunft,Ankunft,die,прибытие
-de:anmeldung:_:genus,anmeldung,Anmeldung,die,объявление
-de:anrede:_:genus,anrede,Anrede,die,обращение
-de:anruf:_:genus,anruf,Anruf,der,оклик
-de:ansage:_:genus,ansage,Ansage,die,объявление
-de:anschluss:_:genus,anschluss,Anschluss,der,подключение
+de:anmeldung:_:genus,anmeldung,Anmeldung,die,регистрация
+de:anruf:_:genus,anruf,Anruf,der,звонок
 de:antwort:_:genus,antwort,Antwort,die,ответ
 de:anzeige:_:genus,anzeige,Anzeige,die,объявление
-de:apartment:_:genus,apartment,Apartment,das,квартира
 de:apfel:_:genus,apfel,Apfel,der,яблоко
-de:appetit:_:genus,appetit,Appetit,der,аппетит
 de:arbeit:_:genus,arbeit,Arbeit,die,работа
 de:arbeitsplatz:_:genus,arbeitsplatz,Arbeitsplatz,der,рабочее место
 de:arm:_:genus,arm,Arm,der,рука
@@ -47,10 +41,8 @@ de:aufzug:_:genus,aufzug,Aufzug,der,лифт
 de:auge:_:genus,auge,Auge,das,глаз
 de:ausflug:_:genus,ausflug,Ausflug,der,экскурсия
 de:ausgang:_:genus,ausgang,Ausgang,der,выход
-de:auskunft:_:genus,auskunft,Auskunft,die,справка
 de:auslaender:_:genus,auslaender,Ausländer,der,иностранец
 de:ausland:_:genus,ausland,Ausland,das,заграница
-de:aussage:_:genus,aussage,Aussage,die,высказывание
 de:ausweis:_:genus,ausweis,Ausweis,der,удостоверение
 de:autobahn:_:genus,autobahn,Autobahn,die,автомагистраль
 de:automat:_:genus,automat,Automat,der,автомат
@@ -66,16 +58,14 @@ de:bank:_:genus,bank,Bank,die,банк
 de:bauch:_:genus,bauch,Bauch,der,живот
 de:beamte:_:genus,beamte,Beamte,die,чиновник
 de:bein:_:genus,bein,Bein,das,нога
-de:beispiel:_:genus,beispiel,Beispiel,das,пример
 de:beruf:_:genus,beruf,Beruf,der,профессия
-de:bett:_:genus,bett,Bett,das,постель
+de:bett:_:genus,bett,Bett,das,кровать
 de:bier:_:genus,bier,Bier,das,пиво
-de:bild:_:genus,bild,Bild,das,фотография
+de:bild:_:genus,bild,Bild,das,картина
 de:birne:_:genus,birne,Birne,die,груша
 de:bitte-noun:_:genus,bitte-noun,Bitte,die,просьба
 de:bleistift:_:genus,bleistift,Bleistift,der,карандаш
-de:blick:_:genus,blick,Blick,der,взгляд
-de:bogen:_:genus,bogen,Bogen,der,лук оружие
+de:blick:_:genus,blick,Blick,der,вид
 de:brief:_:genus,brief,Brief,der,письмо
 de:briefmarke:_:genus,briefmarke,Briefmarke,die,почтовая марка
 de:broetchen:_:genus,broetchen,Brötchen,das,булка
@@ -84,18 +74,14 @@ de:bruder:_:genus,bruder,Bruder,der,брат
 de:buchstabe:_:genus,buchstabe,Buchstabe,der,буква
 de:bus:_:genus,bus,Bus,der,автобус
 de:butter:_:genus,butter,Butter,die,масло
-de:cd:_:genus,cd,CD,die,
 de:chef:_:genus,chef,Chef,der,шеф
 de:computer:_:genus,computer,Computer,der,компьютер
 de:dame:_:genus,dame,Dame,die,дама
 de:dank:_:genus,dank,Dank,der,благодарность
 de:datum:_:genus,datum,Datum,das,дата
-de:disco:_:genus,disco,Disco,die,дискотека
-de:doktor:_:genus,doktor,Doktor,der,доктор
 de:doppelzimmer:_:genus,doppelzimmer,Doppelzimmer,das,двухместный номер
 de:dorf:_:genus,dorf,Dorf,das,деревня
 de:drucker:_:genus,drucker,Drucker,der,принтер
-de:durchsage:_:genus,durchsage,Durchsage,die,сообщение
 de:durst:_:genus,durst,Durst,der,жажда
 de:dusche:_:genus,dusche,Dusche,die,душ
 de:ecke:_:genus,ecke,Ecke,die,угол
@@ -105,13 +91,11 @@ de:ei:_:genus,ei,Ei,das,яйцо
 de:eingang:_:genus,eingang,Eingang,der,вход
 de:einladung:_:genus,einladung,Einladung,die,приглашение
 de:eintritt:_:genus,eintritt,Eintritt,der,вход
-de:einzelzimmer:_:genus,einzelzimmer,Einzelzimmer,das,
-de:empfaenger:_:genus,empfaenger,Empfänger,der,получатель
+de:einzelzimmer:_:genus,einzelzimmer,Einzelzimmer,das,студия
 de:ende:_:genus,ende,Ende,das,конец
 de:entschuldigung:_:genus,entschuldigung,Entschuldigung,die,извинение
-de:ergebnis:_:genus,ergebnis,Ergebnis,das,результат
-de:erwachsene:_:genus,erwachsene,Erwachsene,die,
-de:essen-noun:_:genus,essen-noun,Essen,das,пища
+de:erwachsene:_:genus,erwachsene,Erwachsene,die,взрослый
+de:essen-noun:_:genus,essen-noun,Essen,das,еда
 de:fahrer:_:genus,fahrer,Fahrer,der,водитель
 de:fahrkarte:_:genus,fahrkarte,Fahrkarte,die,билет
 de:fahrrad:_:genus,fahrrad,Fahrrad,das,велосипед
@@ -119,7 +103,6 @@ de:familie:_:genus,familie,Familie,die,семья
 de:familienname:_:genus,familienname,Familienname,der,фамилия
 de:familienstand:_:genus,familienstand,Familienstand,der,семейное положение
 de:farbe:_:genus,farbe,Farbe,die,цвет
-de:fax:_:genus,fax,Fax,der,
 de:fehler:_:genus,fehler,Fehler,der,ошибка
 de:feier:_:genus,feier,Feier,die,праздник
 de:feuer:_:genus,feuer,Feuer,das,костёр
@@ -138,7 +121,6 @@ de:frau:_:genus,frau,Frau,die,женщина
 de:freizeit:_:genus,freizeit,Freizeit,die,свободное время
 de:freund:_:genus,freund,Freund,der,друг
 de:fruehstueck:_:genus,fruehstueck,Frühstück,das,завтрак
-de:fuehrung:_:genus,fuehrung,Führung,die,руководство
 de:fuss:_:genus,fuss,Fuß,der,нога
 de:fussball:_:genus,fussball,Fußball,der,футбол
 de:garten:_:genus,garten,Garten,der,сад
@@ -149,34 +131,27 @@ de:geburtstag:_:genus,geburtstag,Geburtstag,der,день рождения
 de:geld:_:genus,geld,Geld,das,деньги
 de:gemuese:_:genus,gemuese,Gemüse,das,овощ
 de:gepaeck:_:genus,gepaeck,Gepäck,das,багаж
-de:geschaeft:_:genus,geschaeft,Geschäft,das,дело
 de:geschenk:_:genus,geschenk,Geschenk,das,подарок
 de:geschwister:_:genus,geschwister,Geschwister,das,братья и сёстры
 de:gespraech:_:genus,gespraech,Gespräch,das,разговор
 de:getraenk:_:genus,getraenk,Getränk,das,напиток
 de:gewicht:_:genus,gewicht,Gewicht,das,вес
 de:glas:_:genus,glas,Glas,das,стакан
-de:gleis:_:genus,gleis,Gleis,das,рельс
+de:gleis:_:genus,gleis,Gleis,das,платформа
 de:glueck:_:genus,glueck,Glück,das,счастье
 de:glueckwunsch:_:genus,glueckwunsch,Glückwunsch,der,поздравление
 de:grad:_:genus,grad,Grad,der,градус
-de:groesse:_:genus,groesse,Größe,die,величина
+de:groesse:_:genus,groesse,Größe,die,размер
 de:grossmutter:_:genus,grossmutter,Großmutter,die,бабушка
 de:grossvater:_:genus,grossvater,Großvater,der,дедушка
 de:gruppe:_:genus,gruppe,Gruppe,die,группа
-de:gruss:_:genus,gruss,Gruß,der,привет
 de:haar:_:genus,haar,Haar,das,волос
-de:haehnchen:_:genus,haehnchen,Hähnchen,das,петушок
-de:halbpension:_:genus,halbpension,Halbpension,die,
-de:halle:_:genus,halle,Halle,die,зал
 de:haltestelle:_:genus,haltestelle,Haltestelle,die,остановка
 de:hand:_:genus,hand,Hand,die,рука
 de:handy:_:genus,handy,Handy,das,мобильник
 de:hausaufgabe:_:genus,hausaufgabe,Hausaufgabe,die,домашнее задание
-de:hausfrau:_:genus,hausfrau,Hausfrau,die,хозяйка
-de:hausmann:_:genus,hausmann,Hausmann,der,
-de:heimat:_:genus,heimat,Heimat,die,родина
-de:herd:_:genus,herd,Herd,der,очаг
+de:hausfrau:_:genus,hausfrau,Hausfrau,die,домохощяйка
+de:herd:_:genus,herd,Herd,der,плита
 de:herr:_:genus,herr,Herr,der,господин
 de:hilfe:_:genus,hilfe,Hilfe,die,помощь
 de:hobby:_:genus,hobby,Hobby,das,хобби
@@ -186,7 +161,7 @@ de:hunger:_:genus,hunger,Hunger,der,голод
 de:information:_:genus,information,Information,die,информация
 de:internet:_:genus,internet,Internet,das,Интернет
 de:jacke:_:genus,jacke,Jacke,die,куртка
-de:job:_:genus,job,Job,der,
+de:job:_:genus,job,Job,der,работа
 de:jugendliche:_:genus,jugendliche,Jugendliche,die,подросток
 de:kaffee:_:genus,kaffee,Kaffee,der,кофе
 de:karte:_:genus,karte,Karte,die,карта
@@ -204,7 +179,7 @@ de:konto:_:genus,konto,Konto,das,счёт
 de:kopf:_:genus,kopf,Kopf,der,голова
 de:kuchen:_:genus,kuchen,Kuchen,der,торт
 de:kueche:_:genus,kueche,Küche,die,кухня
-de:kuehlschrank:_:genus,kuehlschrank,Kühlschrank,der,холодильник.
+de:kuehlschrank:_:genus,kuehlschrank,Kühlschrank,der,холодильник
 de:kugelschreiber:_:genus,kugelschreiber,Kugelschreiber,der,шариковая ручка
 de:kunde:_:genus,kunde,Kunde,der,клиент
 de:kurs:_:genus,kurs,Kurs,der,курс
@@ -214,16 +189,12 @@ de:leben-noun:_:genus,leben-noun,Leben,das,жизнь
 de:lehrer:_:genus,lehrer,Lehrer,der,учитель
 de:licht:_:genus,licht,Licht,das,свет
 de:lied:_:genus,lied,Lied,das,песня
-de:lkw:_:genus,lkw,Lkw,der,
-de:loesung:_:genus,loesung,Lösung,die,решение
-de:lokal:_:genus,lokal,Lokal,das,помещение
 de:mann:_:genus,mann,Mann,der,мужчина
 de:maschine:_:genus,maschine,Maschine,die,машина
 de:meer:_:genus,meer,Meer,das,море
 de:mensch:_:genus,mensch,Mensch,der,человек
-de:miete:_:genus,miete,Miete,die,наём
+de:miete:_:genus,miete,Miete,die,квартплата
 de:milch:_:genus,milch,Milch,die,молоко
-de:mitte:_:genus,mitte,Mitte,die,середина
 de:moebel:_:genus,moebel,Möbel,das,мебель
 de:moment:_:genus,moment,Moment,der,момент
 de:mund:_:genus,mund,Mund,der,рот
@@ -231,48 +202,44 @@ de:mutter:_:genus,mutter,Mutter,die,мать
 de:name:_:genus,name,Name,der,имя
 de:nummer:_:genus,nummer,Nummer,die,номер
 de:obst:_:genus,obst,Obst,das,фрукты
-de:oel:_:genus,oel,Öl,das,масло жидкое
+de:oel:_:genus,oel,Öl,das,растительное масло
 de:oma:_:genus,oma,Oma,die,бабушка
 de:opa:_:genus,opa,Opa,der,дедушка
 de:ordnung:_:genus,ordnung,Ordnung,die,порядок
 de:ort:_:genus,ort,Ort,der,место
 de:papier:_:genus,papier,Papier,das,бумага
-de:partner:_:genus,partner,Partner,der,партнёр
-de:partnerin:_:genus,partnerin,Partnerin,die,партнёрша
 de:party:_:genus,party,Party,die,вечеринка
-de:pass:_:genus,pass,Pass,der,
+de:pass:_:genus,pass,Pass,der,паспорт
 de:pause:_:genus,pause,Pause,die,перерыв
 de:plan:_:genus,plan,Plan,der,план
 de:platz:_:genus,platz,Platz,der,место
 de:polizei:_:genus,polizei,Polizei,die,полиция
-de:pommes:_:genus,pommes,Pommes,die,
+de:pommes:_:genus,pommes,Pommes,die,картошка фри
 de:post:_:genus,post,Post,die,почта
-de:postleitzahl:_:genus,postleitzahl,Postleitzahl,die,номер почтового отделения
+de:postleitzahl:_:genus,postleitzahl,Postleitzahl,die,почтовый индекс
 de:praktikum:_:genus,praktikum,Praktikum,das,практика
-de:praxis:_:genus,praxis,Praxis,die,практика
+de:praxis:_:genus,praxis,Praxis,die,клиника
 de:preis:_:genus,preis,Preis,der,цена
 de:problem:_:genus,problem,Problem,das,проблема
-de:prospekt:_:genus,prospekt,Prospekt,der,вид
 de:pruefung:_:genus,pruefung,Prüfung,die,экзамен
 de:rad:_:genus,rad,Rad,das,колесо
 de:raum:_:genus,raum,Raum,der,пространство
-de:rechnung:_:genus,rechnung,Rechnung,die,расчёт
+de:rechnung:_:genus,rechnung,Rechnung,die,чек
 de:regen:_:genus,regen,Regen,der,дождь
 de:reis:_:genus,reis,Reis,der,рис
 de:reise:_:genus,reise,Reise,die,поездка
-de:reisebuero:_:genus,reisebuero,Reisebüro,das,
+de:reisebuero:_:genus,reisebuero,Reisebüro,das,турагенство
 de:reisefuehrer:_:genus,reisefuehrer,Reiseführer,der,путеводитель
 de:reparatur:_:genus,reparatur,Reparatur,die,починка
 de:restaurant:_:genus,restaurant,Restaurant,das,ресторан
-de:rezeption:_:genus,rezeption,Rezeption,die,принятие
+de:rezeption:_:genus,rezeption,Rezeption,die,приемная
 de:saft:_:genus,saft,Saft,der,сок
 de:salat:_:genus,salat,Salat,der,салат
 de:salz:_:genus,salz,Salz,das,соль
 de:satz:_:genus,satz,Satz,der,предложение
-de:schalter:_:genus,schalter,Schalter,der,выключатель
-de:schild:_:genus,schild,Schild,das,щит
+de:schalter:_:genus,schalter,Schalter,der,окно №
+de:schild:_:genus,schild,Schild,das,значок
 de:schinken:_:genus,schinken,Schinken,der,ветчина
-de:schluss:_:genus,schluss,Schluss,der,затвор
 de:schrank:_:genus,schrank,Schrank,der,шкаф
 de:schueler:_:genus,schueler,Schüler,der,ученик
 de:schuh:_:genus,schuh,Schuh,der,ботинок
@@ -281,7 +248,7 @@ de:schwester:_:genus,schwester,Schwester,die,сестра
 de:schwimmbad:_:genus,schwimmbad,Schwimmbad,das,плавательный бассейн
 de:see:_:genus,see,See,der,озеро
 de:sehenswuerdigkeit:_:genus,sehenswuerdigkeit,Sehenswürdigkeit,die,достопримечательность
-de:sofa:_:genus,sofa,Sofa,das,софа
+de:sofa:_:genus,sofa,Sofa,das,диван
 de:sohn:_:genus,sohn,Sohn,der,сын
 de:sonne:_:genus,sonne,Sonne,die,Солнце
 de:speisekarte:_:genus,speisekarte,Speisekarte,die,меню
@@ -295,7 +262,7 @@ de:student:_:genus,student,Student,der,студент
 de:studium:_:genus,studium,Studium,das,учёба
 de:stunde:_:genus,stunde,Stunde,die,час
 de:tasche:_:genus,tasche,Tasche,die,сумка
-de:taxi:_:genus,taxi,Taxi,der,
+de:taxi:_:genus,taxi,Taxi,der,такси
 de:tee:_:genus,tee,Tee,der,чай
 de:teil:_:genus,teil,Teil,der,часть
 de:telefon:_:genus,telefon,Telefon,das,телефон
@@ -309,28 +276,22 @@ de:toilette:_:genus,toilette,Toilette,die,туалет
 de:tomate:_:genus,tomate,Tomate,die,помидор
 de:treppe:_:genus,treppe,Treppe,die,лестница
 de:uhr:_:genus,uhr,Uhr,die,часы
-de:unterricht:_:genus,unterricht,Unterricht,der,преподавание
 de:unterschrift:_:genus,unterschrift,Unterschrift,die,подпись
 de:urlaub:_:genus,urlaub,Urlaub,der,отпуск
 de:vater:_:genus,vater,Vater,der,отец
 de:verein:_:genus,verein,Verein,der,союз
-de:verkaeufer:_:genus,verkaeufer,Verkäufer,der,торговец
-de:vermieter:_:genus,vermieter,Vermieter,der,сдающий внаём
+de:verkaeufer:_:genus,verkaeufer,Verkäufer,der,продавец
+de:vermieter:_:genus,vermieter,Vermieter,der,арендодатель
 de:verwandte:_:genus,verwandte,Verwandte,die,родственница
 de:vorname:_:genus,vorname,Vorname,der,имя
 de:vorsicht:_:genus,vorsicht,Vorsicht,die,осторожность
-de:vorwahl:_:genus,vorwahl,Vorwahl,die,предварительные выборы
 de:wein:_:genus,wein,Wein,der,вино
 de:welt:_:genus,welt,Welt,die,мир
 de:wetter:_:genus,wetter,Wetter,das,погода
-de:wiederhoeren:_:genus,wiederhoeren,Wiederhören,das,
-de:wiedersehen:_:genus,wiedersehen,Wiedersehen,das,повторная встреча
 de:wind:_:genus,wind,Wind,der,ветер
-de:wohnung:_:genus,wohnung,Wohnung,die,жильё
+de:wohnung:_:genus,wohnung,Wohnung,die,квартира
 de:wort:_:genus,wort,Wort,das,слово
 de:zeit:_:genus,zeit,Zeit,die,время
 de:zeitung:_:genus,zeitung,Zeitung,die,газета
-de:zigarette:_:genus,zigarette,Zigarette,die,сигарета
 de:zimmer:_:genus,zimmer,Zimmer,das,комната
-de:zoll:_:genus,zoll,Zoll,der,дюйм
 de:zug:_:genus,zug,Zug,der,поезд

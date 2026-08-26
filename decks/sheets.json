@@ -1,0 +1,8 @@
+{
+  "таблица": "https://docs.google.com/spreadsheets/d/1Ihcf5h1us2mH6pNb8VGPPqLv2QiqWinxRzOmJ9_Zrr0/edit",
+  "набор": "de-a1",
+  "листы": {
+    "de_nouns": "data/de_nouns.csv",
+    "de_verbs": "data/de_verbs.csv"
+  }
+}
