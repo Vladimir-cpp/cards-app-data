@@ -1,11 +1,11 @@
 {
-  "version": 19,
+  "version": 22,
   "plugins": [
     {
       "name": "articles",
       "url": "plugins/articles.py",
-      "version": 10,
-      "sha256": "f78dc4f9c295e7c3df382bd86d9f8f2797f883bb21f9d5210114dd691318e4e2"
+      "version": 13,
+      "sha256": "64db936796122b1b69448b5b551cb4623e09fbf0e4ea4761b86de944fc3766bc"
     },
     {
       "name": "verbs",
@@ -13,5 +13,15 @@
       "version": 7,
       "sha256": "b2d4945b9d3b025317f994a36bfecabf3b094024033dbfc518e50bf781318147"
     }
-  ]
+  ],
+  "feedback": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKrm9nR-3-dlXt6sXox1u7dIk6D9kgFj0sdEaop1q8-EdYBw/formResponse",
+    "fields": {
+      "card_id": "entry.1992218098",
+      "kind": "entry.49347756",
+      "text": "entry.2112187361",
+      "ts": "entry.1021617650",
+      "versions": "entry.492937539"
+    }
+  }
 }

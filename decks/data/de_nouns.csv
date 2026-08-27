@@ -28,7 +28,7 @@ de:anfang:_:genus,anfang,Anfang,der,начало,Anfänge,Das ist nur ein Anfang
 de:angebot:_:genus,angebot,Angebot,das,предложение,Angebote,Ich nehme das Angebot an.,Я принимаю предложение.
 de:ankunft:_:genus,ankunft,Ankunft,die,прибытие,Ankünfte,Ich bleibe bis zu ihrer Ankunft.,Я останусь до её приезда.
 de:anmeldung:_:genus,anmeldung,Anmeldung,die,регистрация,Anmeldungen,,
-de:anruf:_:genus,anruf,Anruf,der,звонок,Anrufe,Soll ich sie anrufen?,"Хотите, я ей позвоню?"
+de:anruf:_:genus,anruf,Anruf,der,звонок,Anrufe,,
 de:antwort:_:genus,antwort,Antwort,die,ответ,Antworten,Die Antwort war leicht.,Ответ был лёгкий.
 de:anzeige:_:genus,anzeige,Anzeige,die,объявление,Anzeigen,Hast du die Anzeige gelesen?,Ты прочёл объявление?
 de:apfel:_:genus,apfel,Apfel,der,яблоко,Äpfel,Ist das ein Apfel?,Это яблоко?
@@ -38,7 +38,7 @@ de:arm:_:genus,arm,Arm,der,рука,Arme,Mein Arm ist eingeschlafen.,У меня
 de:arzt:_:genus,arzt,Arzt,der,врач,Ärzte,Ich bin kein Arzt.,Я не доктор.
 de:aufgabe:_:genus,aufgabe,Aufgabe,die,задача,Aufgaben,Die Aufgabe war leicht.,Задание было лёгким.
 de:aufzug:_:genus,aufzug,Aufzug,der,лифт,Aufzüge,Wo ist der Aufzug?,Где лифт?
-de:auge:_:genus,auge,Auge,das,глаз,Augen,Schöne Augen hat er.,У него красивые глаза.
+de:auge:_:genus,auge,Auge,das,глаз,Augen,,
 de:ausflug:_:genus,ausflug,Ausflug,der,экскурсия,Ausflüge,Der Ausflug hat uns sehr gut gefallen.,Экскурсия нам очень понравилась.
 de:ausgang:_:genus,ausgang,Ausgang,der,выход,Ausgänge,Hier ist der Ausgang!,Выход здесь!
 de:auslaender:_:genus,auslaender,Ausländer,der,иностранец,Ausländer,Ich bin ein Ausländer.,Я иностранец.
@@ -53,11 +53,11 @@ de:bahn:_:genus,bahn,Bahn,die,поезд,Bahnen,Die Bahn wird bald ankommen.,П�
 de:bahnhof:_:genus,bahnhof,Bahnhof,der,вокзал,Bahnhöfe,Ist das der Bahnhof?,Это вокзал?
 de:bahnsteig:_:genus,bahnsteig,Bahnsteig,der,платформа,Bahnsteige,Er ging auf dem Bahnsteig auf und ab.,Он взад-вперёд ходил по перрону.
 de:balkon:_:genus,balkon,Balkon,der,балкон,Balkone,Der Balkon ist klein.,Балкон маленький.
-de:banane:_:genus,banane,Banane,die,банан,Bananen,Ich esse oft Bananen.,Я часто ем бананы.
+de:banane:_:genus,banane,Banane,die,банан,Bananen,,
 de:bank:_:genus,bank,Bank,die,банк,Bänke,Ist es eine Bank?,Это банк?
 de:bauch:_:genus,bauch,Bauch,der,живот,Bäuche,Ich lag auf dem Bauch.,Я лежал на животе.
-de:beamte:_:genus,beamte,Beamte,die,чиновник,Beamte,Bestechungen am Arbeitsplatz können Beamten Kopf und Kragen kosten.,Взятки на рабочем месте могут стоить чиновникам головы.
-de:bein:_:genus,bein,Bein,das,нога,Beine,Sie hat lange Beine.,У неё длинные ноги.
+de:beamte:_:genus,beamte,Beamte,die,чиновник,Beamte,,
+de:bein:_:genus,bein,Bein,das,нога,Beine,,
 de:beruf:_:genus,beruf,Beruf,der,профессия,Berufe,Er ist Arzt von Beruf.,По профессии он врач.
 de:bett:_:genus,bett,Bett,das,кровать,Betten,Das ist ein Bett.,Это кровать.
 de:bier:_:genus,bier,Bier,das,пиво,Biere,Er trank ein Bier.,Он выпил кружку пива.
@@ -77,7 +77,7 @@ de:butter:_:genus,butter,Butter,die,масло,,Wo ist die Butter?,Где мас
 de:chef:_:genus,chef,Chef,der,шеф,Chefs,Ist der Chef da?,Шеф на месте?
 de:computer:_:genus,computer,Computer,der,компьютер,Computer,Mein Computer ist teuer.,Мой компьютер дорогой.
 de:dame:_:genus,dame,Dame,die,дама,Damen,Die Dame ist über 80.,Этой даме за 80.
-de:dank:_:genus,dank,Dank,der,благодарность,,Danke für die Hilfe.,Спасибо за помощь.
+de:dank:_:genus,dank,Dank,der,благодарность,,,
 de:datum:_:genus,datum,Datum,das,дата,Daten,Schreib das Datum auf!,Напиши дату.
 de:doppelzimmer:_:genus,doppelzimmer,Doppelzimmer,das,двухместный номер,Doppelzimmer,Ich möchte ein Doppelzimmer.,Я хотел бы двухместный номер.
 de:dorf:_:genus,dorf,Dorf,das,деревня,Dörfer,Unser Dorf ist klein.,Наша деревня маленькая.
@@ -107,7 +107,7 @@ de:fehler:_:genus,fehler,Fehler,der,ошибка,Fehler,Das war sein Fehler!,Э�
 de:feier:_:genus,feier,Feier,die,праздник,Feiern,Ich will nicht auf die Feier.,Я не хочу идти на вечеринку.
 de:feuer:_:genus,feuer,Feuer,das,костёр,Feuer,Ich mache ein Feuer.,Я развожу костёр.
 de:fieber:_:genus,fieber,Fieber,das,жар,Fieber,Ich habe kein Fieber.,У меня нет температуры.
-de:film:_:genus,film,Film,der,кино,Filme,Ich mag Filme sehr.,Я обожаю кино.
+de:film:_:genus,film,Film,der,кино,Filme,Sie sahen einen Film.,Они смотрели фильм.
 de:firma:_:genus,firma,Firma,die,фирма,Firmen,Früher ging er zu Fuß in die Firma.,Раньше он ходил пешком до своего офиса.
 de:fisch:_:genus,fisch,Fisch,der,рыба,Fische,Der Fisch ist klein.,Рыба маленькая.
 de:flasche:_:genus,flasche,Flasche,die,бутылка,Flaschen,Mach die Flasche auf.,Открой бутылку.
@@ -116,7 +116,7 @@ de:flughafen:_:genus,flughafen,Flughafen,der,аэропорт,Flughäfen,Der Flu
 de:flugzeug:_:genus,flugzeug,Flugzeug,das,самолёт,Flugzeuge,Das Flugzeug wartet nicht.,Самолёт ждать не будет.
 de:formular:_:genus,formular,Formular,das,формуляр,Formulare,Hat sie schon das Formular ausgefüllt?,Она уже заполнила бланк?
 de:foto:_:genus,foto,Foto,das,фото,Fotos,Das ist sein Foto.,Это его фото.
-de:frage:_:genus,frage,Frage,die,вопрос,Fragen,Ich werde sie fragen.,Я у них спрошу.
+de:frage:_:genus,frage,Frage,die,вопрос,Fragen,,
 de:frau:_:genus,frau,Frau,die,женщина,Frauen,Sie sind eine Frau.,Вы женщина.
 de:freizeit:_:genus,freizeit,Freizeit,die,свободное время,Freizeiten,Ich habe keine Freizeit.,У меня нет свободного времени.
 de:freund:_:genus,freund,Freund,der,друг,Freunde,Ist er ein Freund?,Он друг?
@@ -147,11 +147,11 @@ de:grossvater:_:genus,grossvater,Großvater,der,дедушка,Großväter,Wie h
 de:gruppe:_:genus,gruppe,Gruppe,die,группа,Gruppen,Das ist meine Gruppe.,Это моя группа.
 de:haar:_:genus,haar,Haar,das,волос,Haare,Mein Haar ist lang.,У меня длинные волосы.
 de:haltestelle:_:genus,haltestelle,Haltestelle,die,остановка,Haltestellen,Wo ist die Haltestelle?,Где находится остановка?
-de:hand:_:genus,hand,Hand,die,рука,Hände,Er hat große Hände.,У него большие руки.
+de:hand:_:genus,hand,Hand,die,рука,Hände,,
 de:handy:_:genus,handy,Handy,das,мобильник,Handys,Ich suche mein Handy.,Я ищу свой мобильный.
-de:hausaufgabe:_:genus,hausaufgabe,Hausaufgabe,die,домашнее задание,Hausaufgaben,Ich mag keine Hausaufgaben.,Я не люблю домашние задания.
+de:hausaufgabe:_:genus,hausaufgabe,Hausaufgabe,die,домашнее задание,Hausaufgaben,,
 de:hausfrau:_:genus,hausfrau,Hausfrau,die,домохозяйка,Hausfrauen,Eine Hausfrau sollte sparsam sein.,Хозяйке следует быть экономной.
-de:herd:_:genus,herd,Herd,der,плита,Herde,Giraffen leben in Herden.,Жирафы живут стадами.
+de:herd:_:genus,herd,Herd,der,плита,Herde,Der Topf steht auf dem Herd.,Кастрюля стоит на плите.
 de:herr:_:genus,herr,Herr,der,господин,Herren,Herr Jung ist alt.,Г-н Молодой стар.
 de:hilfe:_:genus,hilfe,Hilfe,die,помощь,Hilfen,Ich brauche keine Hilfe.,Мне не нужна помощь.
 de:hobby:_:genus,hobby,Hobby,das,хобби,Hobbys,Haben Sie ein Hobby?,У Вас есть хобби?
@@ -162,10 +162,10 @@ de:information:_:genus,information,Information,die,информация,Informat
 de:internet:_:genus,internet,Internet,das,Интернет,,Wem gehört das Internet?,Кому принадлежит Интернет?
 de:jacke:_:genus,jacke,Jacke,die,куртка,Jacken,Ich kaufe eine Jacke.,Я куплю куртку.
 de:job:_:genus,job,Job,der,работа,Jobs,Sie fand einen Job.,Она нашла работу.
-de:jugendliche:_:genus,jugendliche,Jugendliche,die,подросток,Jugendliche,Einkaufszentren sind bei Jugendlichen beliebt.,Торговые центры популярны у подростков.
+de:jugendliche:_:genus,jugendliche,Jugendliche,die,подросток,Jugendliche,Ich höre noch immer die gleiche Musik wie schon als Jugendliche.,"Я до сих пор слушаю ту же музыку, которую слушала подростком."
 de:kaffee:_:genus,kaffee,Kaffee,der,кофе,Kaffees,Der Kaffee ist bitter.,Кофе горький.
 de:karte:_:genus,karte,Karte,die,карта,Karten,Hier ist die Karte!,Вот меню!
-de:kartoffel:_:genus,kartoffel,Kartoffel,die,картофель,Kartoffeln,Ich kochte die Kartoffeln.,Я сварил картошку.
+de:kartoffel:_:genus,kartoffel,Kartoffel,die,картофель,Kartoffeln,,
 de:kasse:_:genus,kasse,Kasse,die,касса,Kassen,Die Kasse stimmt heute nicht.,Касса не сходится сегодня.
 de:kind:_:genus,kind,Kind,das,ребёнок,Kinder,Wessen Kind ist das?,Чей это ребёнок?
 de:kindergarten:_:genus,kindergarten,Kindergarten,der,детский сад,Kindergärten,Ich arbeite im Kindergarten.,Я работаю в детском саду.
@@ -226,7 +226,7 @@ de:rad:_:genus,rad,Rad,das,колесо,Räder,Wo ist mein Rad?,Где мой в
 de:raum:_:genus,raum,Raum,der,пространство,Räume,Der Raum ist zu klein.,Комната слишком маленькая.
 de:rechnung:_:genus,rechnung,Rechnung,die,чек,Rechnungen,Bringen Sie bitte die Rechnung.,"Принесите, пожалуйста, счёт."
 de:regen:_:genus,regen,Regen,der,дождь,Regen,Hat der Regen aufgehört?,Дождь перестал?
-de:reis:_:genus,reis,Reis,der,рис,Reise,Ich reise morgen ab.,Я завтра уезжаю.
+de:reis:_:genus,reis,Reis,der,рис,Reise,,
 de:reise:_:genus,reise,Reise,die,поездка,Reisen,Ich reise morgen ab.,Я завтра уезжаю.
 de:reisebuero:_:genus,reisebuero,Reisebüro,das,турагентство,Reisebüros,Kennst du dieses Reisebüro?,Ты знаешь это турагентство?
 de:reisefuehrer:_:genus,reisefuehrer,Reiseführer,der,путеводитель,Reiseführer,Verlassen Sie sich nicht zu sehr auf Ihren Reiseführer.,Не слишком полагайтесь на свой путеводитель.
@@ -242,18 +242,18 @@ de:schild:_:genus,schild,Schild,das,значок,Schilder,Ich brauche einen Schi
 de:schinken:_:genus,schinken,Schinken,der,ветчина,Schinken,Er mag Schinken und Eier.,Он любит ветчину и яйца.
 de:schrank:_:genus,schrank,Schrank,der,шкаф,Schränke,Sieh im Schrank nach!,Поищи в шкафу.
 de:schueler:_:genus,schueler,Schüler,der,ученик,Schüler,Er ist kein Schüler.,Он не школьник.
-de:schuh:_:genus,schuh,Schuh,der,ботинок,Schuhe,Wo sind die Schuhe?,Где обувь?
+de:schuh:_:genus,schuh,Schuh,der,ботинок,Schuhe,,
 de:schule:_:genus,schule,Schule,die,школа,Schulen,Wo ist die Schule?,Где школа?
 de:schwester:_:genus,schwester,Schwester,die,сестра,Schwestern,Er hat keine Schwester.,У него нет сестры.
 de:schwimmbad:_:genus,schwimmbad,Schwimmbad,das,бассейн,Schwimmbäder,In diesem Motel gibt es ein Schwimmbad.,В этом мотеле есть бассейн.
 de:see:_:genus,see,See,der,озеро,Seen,Der See ist groß.,Озеро большое.
-de:sehenswuerdigkeit:_:genus,sehenswuerdigkeit,Sehenswürdigkeit,die,достопримечательность,Sehenswürdigkeiten,In Kyoto gibt es viele Sehenswürdigkeiten.,В Киото много достопримечательностей.
+de:sehenswuerdigkeit:_:genus,sehenswuerdigkeit,Sehenswürdigkeit,die,достопримечательность,Sehenswürdigkeiten,,
 de:sofa:_:genus,sofa,Sofa,das,диван,Sofas,Das ist mein Sofa.,Это мой диван.
 de:sohn:_:genus,sohn,Sohn,der,сын,Söhne,Das ist sein Sohn.,Это его сын.
 de:sonne:_:genus,sonne,Sonne,die,Солнце,Sonnen,Die Sonne ist groß.,Солнце большое.
 de:speisekarte:_:genus,speisekarte,Speisekarte,die,меню,Speisekarten,Darf ich die Speisekarte sehen?,Можно посмотреть меню?
 de:sport:_:genus,sport,Sport,der,спорт,,Ich mag Sport nicht.,Я не люблю спорт.
-de:sprache:_:genus,sprache,Sprache,die,язык,Sprachen,Sie sprachen von 8 bis 10 Uhr.,Они беседовали с 8 до 10 часов.
+de:sprache:_:genus,sprache,Sprache,die,язык,Sprachen,,
 de:stadt:_:genus,stadt,Stadt,die,город,Städte,Die Stadt ist groß.,Город большой.
 de:stelle:_:genus,stelle,Stelle,die,место,Stellen,Ich habe eine Stelle gefunden.,Я нашла работу.
 de:stock:_:genus,stock,Stock,der,палка,Stöcke,Ich suche einen Stock.,Я ищу какую-нибудь палку.
@@ -282,8 +282,8 @@ de:vater:_:genus,vater,Vater,der,отец,Väter,Er hat einen Vater.,У него
 de:verein:_:genus,verein,Verein,der,союз,Vereine,Der Verein hat dreißig Mitglieder.,В этом обществе тридцать членов.
 de:verkaeufer:_:genus,verkaeufer,Verkäufer,der,продавец,Verkäufer,Wie heißt der Verkäufer?,Как зовут продавца?
 de:vermieter:_:genus,vermieter,Vermieter,der,арендодатель,Vermieter,Wie viele Immobilien besitzt der Vermieter?,Каким количеством имущества владеет собственник?
-de:verwandte:_:genus,verwandte,Verwandte,die,родственница,Verwandte,Das ist mein Verwandter.,Это мой родственник.
-de:vorname:_:genus,vorname,Vorname,der,имя,Vornamen,Ich kenne Ihren Vornamen.,Я знаю Ваше имя.
+de:verwandte:_:genus,verwandte,Verwandte,die,родственница,Verwandte,Wir haben dort Verwandte.,У нас там родственники.
+de:vorname:_:genus,vorname,Vorname,der,имя,Vornamen,Vorname? Familienname? Geburtsdatum und -ort?,Имя? Фамилия? Дата и место рождения?
 de:vorsicht:_:genus,vorsicht,Vorsicht,die,осторожность,,Vorsicht vor dem Hund!,Берегись собаки!
 de:wein:_:genus,wein,Wein,der,вино,Weine,Er mag keinen Wein.,Он не любит вино.
 de:welt:_:genus,welt,Welt,die,мир,Welten,Die Welt ist klein.,Мир тесен.
@@ -317,7 +317,7 @@ de:fruehling:_:genus,fruehling,Frühling,der,весна,Frühlinge,Der Frühling
 de:fuehrerschein:_:genus,fuehrerschein,Führerschein,der,водительское удостоверение,Führerscheine,Er fährt ohne Führerschein.,Он ездит без прав.
 de:gebuehr:_:genus,gebuehr,Gebühr,die,плата,Gebühren,,
 de:geburtsdatum:_:genus,geburtsdatum,Geburtsdatum,das,дата рождения,Geburtsdaten,Was ist dein Geburtsdatum?,Какая у тебя дата рождения?
-de:geldautomat:_:genus,geldautomat,Geldautomat,der,банкомат,Geldautomaten,Ich suche einen Geldautomaten.,Я ищу банкомат.
+de:geldautomat:_:genus,geldautomat,Geldautomat,der,банкомат,Geldautomaten,Wo ist der nächste Geldautomat?,Где ближайший банкомат?
 de:gesundheit:_:genus,gesundheit,Gesundheit,die,здоровье,,Es ist für die Gesundheit des Menschen gut.,Это полезно для здоровья человека.
 de:gramm:_:genus,gramm,Gramm,das,грамм,Gramme,Koche dreihundert Gramm Reis!,Свари триста грамм риса.
 de:grippe:_:genus,grippe,Grippe,die,грипп,Grippen,Sie hat die Grippe.,У неё грипп.
@@ -351,7 +351,7 @@ de:nachbarin:_:genus,nachbarin,Nachbarin,die,соседка,Nachbarinnen,Sie ist
 de:nachmittag:_:genus,nachmittag,Nachmittag,der,послеобеденное время,Nachmittage,Er kommt heute Nachmittag.,Он придёт сегодня после обеда.
 de:nacht:_:genus,nacht,Nacht,die,ночь,Nächte,Die Nacht ist lang.,Ночь долгая.
 de:nase:_:genus,nase,Nase,die,нос,Nasen,Hat er eine große Nase?,У него большой нос?
-de:ohr:_:genus,ohr,Ohr,das,ухо,Ohren,Die Wände haben Ohren.,У стен есть уши.
+de:ohr:_:genus,ohr,Ohr,das,ухо,Ohren,,
 de:onkel:_:genus,onkel,Onkel,der,дядя,Onkel,Wie alt ist sein Onkel?,Сколько лет его дяде?
 de:packung:_:genus,packung,Packung,die,упаковка,Packungen,Ich brauche eine Packung Eier.,Мне нужна упаковка яиц.
 de:parkplatz:_:genus,parkplatz,Parkplatz,der,парковка,Parkplätze,Ich suche einen Parkplatz.,Я ищу где припарковаться.
@@ -380,7 +380,7 @@ de:theater:_:genus,theater,Theater,das,театр,Theater,Das ist ein Theater.,�
 de:ueberweisung:_:genus,ueberweisung,Überweisung,die,перевод,Überweisungen,,
 de:universitaet:_:genus,universitaet,Universität,die,университет,Universitäten,Das ist eine Universität.,Это университет.
 de:visum:_:genus,visum,Visum,das,виза,Visa,Ich habe kein Visum.,У меня нет визы.
-de:vormittag:_:genus,vormittag,Vormittag,der,первая половина дня,Vormittage,Es ist 11 Uhr vormittags.,Сейчас одиннадцать утра.
+de:vormittag:_:genus,vormittag,Vormittag,der,первая половина дня,Vormittage,,
 de:wand:_:genus,wand,Wand,die,стена,Wände,Wo ist die Wand?,Где стена?
 de:weg-noun:_:genus,weg-noun,Weg,der,дорога,Wege,Ist der Weg gut?,Дорога хорошая?
 de:winter:_:genus,winter,Winter,der,зима,Winter,Nach dem Herbst kommt der Winter.,За осенью приходит зима.
@@ -390,7 +390,7 @@ de:wolke:_:genus,wolke,Wolke,die,облако,Wolken,Es war keine Wolke zu sehen
 de:wurst:_:genus,wurst,Wurst,die,колбаса,Würste,Wir haben keine Wurst mehr.,У нас больше нет колбасы.
 de:zahn:_:genus,zahn,Zahn,der,зуб,Zähne,Mein Zahn tut weh.,У меня болит зуб.
 de:zucker:_:genus,zucker,Zucker,der,сахар,Zucker,Das ist kein Zucker.,Это не сахар.
-de:abend:_:genus,abend,Abend,der,вечер,Abende,Was macht sie abends?,Чем она занимается по вечерам?
+de:abend:_:genus,abend,Abend,der,вечер,Abende,,
 de:dienstag:_:genus,dienstag,Dienstag,der,вторник,Dienstage,Dienstag kommt nach Montag.,Вторник идёт после понедельника.
 de:donnerstag:_:genus,donnerstag,Donnerstag,der,четверг,Donnerstage,Nach dem Donnerstag kommt der Freitag.,После четверга пятница.
 de:feierabend:_:genus,feierabend,Feierabend,der,конец рабочего дня,Feierabende,Möchtest du nach Feierabend noch einen trinken gehen?,Хочешь после работы пропустить по стаканчику?
@@ -402,7 +402,7 @@ de:mitternacht:_:genus,mitternacht,Mitternacht,die,полночь,Mitternächte,
 de:mittwoch:_:genus,mittwoch,Mittwoch,der,среда,Mittwoche,"Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag.","Понедельник, вторник, среда, четверг, пятница, суббота, воскресенье."
 de:monat:_:genus,monat,Monat,der,месяц,Monate,Ein Monat ist schon um.,Прошёл уже месяц.
 de:montag:_:genus,montag,Montag,der,понедельник,Montage,Montag kommt nach Sonntag.,Понедельник идёт после воскресенья.
-de:morgen-noun:_:genus,morgen-noun,Morgen,der,утро,Morgen,Ich schreibe morgens und abends.,Я пишу по утрам и вечерам.
+de:morgen-noun:_:genus,morgen-noun,Morgen,der,утро,Morgen,,
 de:samstag:_:genus,samstag,Samstag,der,суббота,Samstage,Samstag kommt vor Sonntag.,Суббота предшествует воскресенью.
 de:sekunde:_:genus,sekunde,Sekunde,die,секунда,Sekunden,Warten Sie keine Sekunde länger.,Не ждите больше ни секунды.
 de:sonntag:_:genus,sonntag,Sonntag,der,воскресенье,Sonntage,Montag kommt nach Sonntag.,Понедельник идёт после воскресенья.

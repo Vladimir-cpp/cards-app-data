@@ -66,22 +66,43 @@ DETERMINERS = {
 }
 
 
+def has(sentence, part):
+    """Стоит ли `part` в предложении **отдельным словом**, а не куском другого.
+
+    Границы проверяются с обеих сторон: иначе `Tische` находилось бы по
+    `Tisch`, а `keine Blume` — по `kein Blume`, и обе находки были бы про
+    другую форму, то есть про другой ответ.
+    """
+    text, head = sentence.lower(), part.lower()
+    at = text.find(head)
+    while at != -1:
+        after = at + len(head)
+        before = text[at - 1] if at else " "
+        if not before.isalpha() and (after >= len(text)
+                                     or not text[after].isalpha()):
+            return True
+        at = text.find(head, at + 1)
+    return False
+
+
+def shows_word(sentence, word):
+    """Стоит ли в предложении **та самая** форма, которую спрашивает карточка.
+
+    Карточка спрашивает род `Haus`, а `Die Häuser sind alt` — предложение про
+    `Häuser`. Оно верное, полезное и даже с артиклем, но слова `Haus` в нём
+    нет: глаз ищет на карточке одно, а находит другое, и связка «слово —
+    артикль», ради которой пример и показывают, не возникает вовсе.
+
+    Отсюда же отбраковка `nach Hause`: дательное `-e` — другая форма, а падежей
+    на этой ступени ещё не проходили, и объяснить разницу нечем.
+    """
+    return has(sentence, word)
+
+
 def shows_gender(sentence, article, word):
     """Стоит ли слово в предложении при определителе своего рода."""
-    text = sentence.lower()
-    for determiner in DETERMINERS[article]:
-        head = f"{determiner} {word}".lower()
-        at = text.find(head)
-        while at != -1:
-            after = at + len(head)
-            before = text[at - 1] if at else " "
-            # `keine Blume` не должна находиться по `kein Blume`, а `Tische`
-            # по `Tisch`: границы слова проверяются с обеих сторон
-            if not before.isalpha() and (after >= len(text)
-                                         or not text[after].isalpha()):
-                return True
-            at = text.find(head, at + 1)
-    return False
+    return any(has(sentence, f"{determiner} {word}")
+               for determiner in DETERMINERS[article])
 
 
 def misleads(sentence, article, word):
@@ -97,20 +118,8 @@ def misleads(sentence, article, word):
     Именно поэтому проверка смотрит на форму, а не на падеж: разбирать падеж
     незачем, если результат один — пример не годится.
     """
-    text = sentence.lower()
-    for other in ARTICLES:
-        if other == article:
-            continue
-        head = f"{other} {word}".lower()
-        at = text.find(head)
-        while at != -1:
-            after = at + len(head)
-            before = text[at - 1] if at else " "
-            if not before.isalpha() and (after >= len(text)
-                                         or not text[after].isalpha()):
-                return True
-            at = text.find(head, at + 1)
-    return False
+    return any(has(sentence, f"{other} {word}")
+               for other in ARTICLES if other != article)
 
 
 def pick_example(view, lexeme, article, word):
@@ -124,8 +133,14 @@ def pick_example(view, lexeme, article, word):
 
     Порядок отбора по сложности, сделанный при импорте, этим не отменяется —
     он и задаёт список, из которого здесь выбирают.
+
+    Первым делом отсеиваются предложения, где нужной формы нет вовсе:
+    множественное, дательное `nach Hause`, однокоренное другое слово. Раньше
+    такое доходило до карточки через запасную полосу — там условие было «нет
+    чужого артикля», и предложение без слова его проходило легко.
     """
-    rows = view.examples(lexeme)
+    rows = [row for row in view.examples(lexeme)
+            if shows_word(row.get("de") or "", word)]
     if not rows:
         return "", ""
     for row in rows:
@@ -203,13 +218,32 @@ def render(card):
     }
 
 
+def subject(card):
+    """Что стоит на экране правки: слово, как его учат, и что о нём известно.
+
+    Называет плагин, потому что движок не знает, где в карточке слово: у
+    артикля предмет правки — `das Haus`, у глагола будет ячейка парадигмы.
+    Артикль здесь показан **вместе со словом**, хотя правят перевод: правка
+    делается по горячим следам, и человек должен видеть ту же карточку, а не
+    её половину.
+    """
+    return {"title": f"{card['answer']} {card['word']}",
+            "accent": card["answer"],
+            "note": card["translation"],
+            "example": card["example"]}
+
+
 def check(card, answer):
     """Разбор ответа. `feedback` строкой оставлен для старых сборок движка.
 
-    Множественное и пример показываются **только при промахе**. При верном
-    ответе они пролетят непрочитанными, а задерживать верный ответ значит
-    наказывать за него. Решает это плагин, а не движок: что стоит показать
-    ошибшемуся — вопрос обучения, а не рисования.
+    Пример показывается **в обоих исходах**. Он не разбор ошибки, а вторая
+    встреча со словом: `das Haus` в живой фразе — то, ради чего род и учат, и
+    угадавшему это нужно ровно так же. Задержку он стоит; сколько её держать,
+    решает движок по тому, что на экране.
+
+    Множественное — только при промахе. Оно про **другую** клетку таблицы, и
+    показывать её тому, кто первую только что назвал верно, значит добавлять
+    строку на каждую карточку ради случая, когда её никто не читает.
     """
     article, word = card["answer"], card["word"]
     correct = answer.strip().lower() == article
@@ -224,11 +258,9 @@ def check(card, answer):
         "feedback": feedback,
         "notes": [],
     }
-    if not correct:
-        if card["plural"]:
-            result["notes"].append({"text": f"{PLURAL} {card['plural']}",
-                                    "accent": PLURAL_ACCENT,
-                                    "weight": "muted"})
-        if card["example"]:
-            result["notes"].append({"text": card["example"], "weight": "loud"})
+    if not correct and card["plural"]:
+        result["notes"].append({"text": f"{PLURAL} {card['plural']}",
+                                "accent": PLURAL_ACCENT, "weight": "muted"})
+    if card["example"]:
+        result["notes"].append({"text": card["example"], "weight": "loud"})
     return result
