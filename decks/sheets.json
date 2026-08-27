@@ -6,5 +6,9 @@
     "de-articles": "data/de_nouns.csv",
     "de_verbs": "data/de_verbs.csv",
     "de-verbs": "data/de_verbs.csv"
+  },
+  "правки": {
+    "gid": "848543746",
+    "лист": "Ответы на форму (1)"
   }
 }
