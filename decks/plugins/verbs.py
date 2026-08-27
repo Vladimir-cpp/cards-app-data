@@ -93,7 +93,11 @@ def make_card(row):
     }
 
 
-def render(card):
+def render(card, easier=False, rung=None, intro=False, ctx=None):
+    # текстовый ввод не выбирает из вариантов — снижать здесь нечего, но
+    # сигнатура общая у всех плагинов: движок зовёт render одинаково.
+    # Лестницы у глаголов пока нет вовсе: `rung`, `intro` и `ctx` приняты и
+    # не использованы, и это честнее, чем не принять и уронить движок
     hint = f" — {card['translation']}" if card["translation"] else ""
     return {
         "prompt": f"{card['infinitive']}{hint}\n{card['pronoun']} ___",

@@ -1,5 +1,7 @@
 """Режим «Артикли»: показывается существительное, надо выбрать der/die/das."""
 
+import random
+
 PLUGIN = "articles"
 
 DECKS = [
@@ -68,6 +70,27 @@ DETERMINERS = {
     "der": ("der",) + EIN,
     "das": ("das",) + EIN,
     "die": ("die",) + tuple(word + "e" for word in EIN),
+}
+
+# Косвенные определители, по которым род выводится **однозначно**. На них
+# стоит ступень 2: расшифровать `keinen` труднее, чем прочесть `der`, но
+# расшифровывается он в один род, а не в два, — и ответа в строке при этом не
+# стоит. Тем ступень и хороша: подсказка есть, а ответа нет.
+#
+# У среднего рода такого определителя нет вовсе, и это не пробел таблицы, а
+# свойство немецкого: `dem`, `einem`, `des`, `eines` общие у среднего с
+# мужским, а `das` и `ein` — те же, что в именительном, то есть ответ. Значит
+# ступень 2 у среднего рода не бывает, и карточка на ней пропускается вверх.
+# `euer` и `unser` при окончании теряют `e` (`eure`, `euren`, `unsre`), и
+# обе формы живые — поэтому в таблице лежат обе, а не «правильная».
+_SHORT = {"euer": "eur", "unser": "unsr"}
+_STEMS = tuple(EIN) + tuple(_SHORT.values())
+
+OBLIQUE = {
+    "der": ("den",) + tuple(stem + "en" for stem in _STEMS),
+    "die": (tuple(stem + "e" for stem in _STEMS)
+            + tuple(stem + "er" for stem in _STEMS)),
+    "das": (),
 }
 
 
@@ -160,6 +183,46 @@ def pick_example(view, lexeme, article, word):
     return (best[1], best[2]) if best else ("", "")
 
 
+def shows_gender_obliquely(sentence, article, word):
+    """Стоит ли слово при косвенном определителе **своего** рода."""
+    return any(has(sentence, f"{determiner} {word}")
+               for determiner in OBLIQUE[article])
+
+
+def names_article(sentence, word):
+    """Стоит ли рядом со словом голый артикль — то есть сам ответ."""
+    return any(has(sentence, f"{other} {word}") for other in ARTICLES)
+
+
+def pick_oblique(view, lexeme, article, word):
+    """Пример для ступени 2: род закодирован, но не назван.
+
+    Правило A1 (`pick_example` выше) поднимает наверх именительный со своим
+    артиклем — и для ступени 2 это ровно то, что не годится: `Das Haus ist
+    weiß` не подсказка, а ответ, набранный в той же строке. Здесь порядок
+    обратный, и это не другая функция, а другой порядок в той же работе.
+
+    Обязательных три: та самая форма слова, определитель из `OBLIQUE` прямо
+    при ней и **ни одного голого артикля** рядом со словом. Третье жёстче,
+    чем кажется: `Ich sehe das Haus` про род говорит правду, но говорит её
+    словом `das`, и расшифровывать там нечего.
+
+    Предпочтения: рука старше отбора, короткое старше длинного. Пусто —
+    материала для ступени у слова нет, и карточка на ней пропускается вверх.
+    """
+    best = None
+    for row in view.examples(lexeme):
+        text = (row.get("de") or "").strip()
+        if not shows_word(text, word) or names_article(text, word):
+            continue
+        if not shows_gender_obliquely(text, article, word):
+            continue
+        rank = (0 if (row.get("source") or "").strip() == HAND else 1, len(text))
+        if best is None or rank < best[0]:
+            best = (rank, text, (row.get("ru") or "").strip())
+    return (best[1], best[2]) if best else ("", "")
+
+
 def example_problem(card, sentence):
     """Чем предложенный пример **слабее** прочих. Пусто — годится как есть.
 
@@ -208,12 +271,14 @@ def build(view):
             continue
         word = (row.get("lemma") or "").strip()
         example, example_ru = pick_example(view, lexeme, article, word)
+        oblique, oblique_ru = pick_oblique(view, lexeme, article, word)
         # множественное хранится голой формой: `die` перед ним — не данные, а
         # правило немецкого, и знает его плагин, а не таблица
         yield {"lexeme": lexeme, "noun": word,
                "article": article, "translation": view.sense(lexeme),
                "plural": view.form(lexeme, "pl"),
-               "example": example, "example_ru": example_ru}
+               "example": example, "example_ru": example_ru,
+               "oblique": oblique, "oblique_ru": oblique_ru}
 
 
 def make_card(row):
@@ -227,11 +292,78 @@ def make_card(row):
         "translation": (row.get("translation") or "").strip(),
         "plural": (row.get("plural") or "").strip(),
         "example": (row.get("example") or "").strip(),
+        "example_ru": (row.get("example_ru") or "").strip(),
+        # пример ступени 2: род в нём закодирован определителем, а не назван
+        "oblique": (row.get("oblique") or "").strip(),
+        "oblique_ru": (row.get("oblique_ru") or "").strip(),
     }
 
 
-def render(card):
+# Ступени лестницы, снизу вверх. Номер — то самое число, что лежит в
+# `card_stats.rung`: движок считает движение и хранит номер, а что показать на
+# каждой ступени, знает только плагин.
+#
+#   0  показ восьмёркой, потом вопрос по тем же восьми
+#   1  то же двадцаткой — разница между 0 и 1 ровно в количестве
+#   2  косвенный пример: `Ich habe keinen Tisch` рядом с вопросом
+#   3  обратный выбор: дан артикль, выбрать из трёх слов своё
+#   4  выбор из двух: один неверный артикль гаснет сразу
+#   5  выбор из трёх — то, что было всегда
+#
+# Размер блока на ступенях 0 и 1 — забота движка (`scheduler.BLOCK`): это про
+# состав захода, а не про то, как нарисован вопрос.
+TOP_RUNG = 5
+OBLIQUE_RUNG = 2
+REVERSE_RUNG = 3
+TWO_OF_THREE = 4
+
+# Подсказка обратного выбора. Слово в вопросе не стоит, стоит артикль, и без
+# этой строки экран читался бы как «ответьте что-нибудь».
+REVERSE_HINT = "какое из них этого рода?"
+
+
+def _other_genus(card):
+    """Обязательное условие к отвлекающим: у каждого варианта свой род.
+
+    Иначе у вопроса «какое из них das» оказалось бы два верных ответа — не
+    задание, а ошибка, которую человек примет на свой счёт.
+    """
+    def where(other, selected):
+        if other["id"] == card["id"]:
+            return False
+        taken = [card["answer"]] + [chosen["answer"] for chosen in selected]
+        return other["answer"] not in taken
+    return where
+
+
+def _others(card, ctx):
+    """Два отвлекающих из колоды или None, если их не набралось.
+
+    Спрашивает **плагин**, отбирает движок: что такое род, знает только
+    колода, насколько слово знакомо — только устройство. Условие выше жёсткое
+    и не снимается; «не сложнее этой» и «виденные» — пожелания движка, и
+    смягчает их он же.
+    """
+    if ctx is None:
+        return None
+    others, _dropped = ctx.sample(2, like=card, where=_other_genus(card))
+    return others if len(others) == 2 else None
+
+
+def render(card, easier=False, rung=None, intro=False, ctx=None):
     """Вопрос: перевод подсказкой, слово вопросом, три артикля вариантами.
+
+    `intro` — не вопрос, а **показ**: слово сразу со своим артиклем, перевод и
+    пример. Нижние ступени начинаются с него, и спрашивается карточка потом,
+    через целый блок других — см. `scheduler`. Оценки у показа нет: спрашивать
+    то, что стоит на экране, значит спрашивать умение читать.
+
+    `rung` — ступень карточки. Форму по ней выбирает плагин: движок номер
+    хранит и двигает, но что такое «легче» для артикля, знает только здесь.
+
+    `ctx` — колода, у которой можно спросить отвлекающих (ступень 3). Без неё
+    ступень просто пропускается вверх: без второго и третьего слова обратный
+    выбор не собрать, а подставлять случайное — врать про задание.
 
     `accents` — **роли**, а не цвета: плагин называет то, что знает про язык
     (какого рода вариант), палитра остаётся в движке. Плагин, назначающий
@@ -240,20 +372,108 @@ def render(card):
     `options` остаются строками нарочно. Контент едет на телефон отдельно от
     APK, и список словарей положил бы установленную сборку насмерть; лишний
     ключ рядом она просто не заметит.
+
+    `easier` — повтор той же карточки следом за промахом в этой же сессии
+    (Р-22, темп «внутри сессии»): один неверный артикль гаснет заранее,
+    случайно каким из двух. Верный артикль этим не выдаётся — угадывать
+    приходится между ним и одним оставшимся, а не всеми тремя.
     """
-    return {
+    if intro:
+        return _showing(card)
+
+    step = TOP_RUNG if rung is None else max(0, min(rung, TOP_RUNG))
+    if step == OBLIQUE_RUNG:
+        if card.get("oblique"):
+            return _forward(card, prop=card["oblique"],
+                            prop_ru=card.get("oblique_ru", ""))
+        step += 1  # нет материала — вверх, а не вниз
+    if step == REVERSE_RUNG:
+        others = _others(card, ctx)
+        if others:
+            return _reverse(card, others)
+        step += 1
+    # два повода погасить неверный вариант, и они разные: ступень 4 — место
+    # карточки на лестнице, `easier` — повтор следом за промахом в этом же
+    # заходе (Р-22). Ось одна, поводов два, и складывать их не нужно: гаснет
+    # один вариант в обоих случаях
+    return _forward(card, muted=easier or step == TWO_OF_THREE)
+
+
+def _forward(card, muted=False, prop="", prop_ru=""):
+    """Слово вопросом, три артикля вариантами — то, чем колода была всегда.
+
+    `prop` — опора ступени 2: предложение, в котором род закодирован
+    определителем. Оно стоит **до** ответа, а не в отклике, и в этом вся
+    ступень: ответ из строки не вычитывается, а выводится.
+    """
+    input_spec = {
+        "type": "choices",
+        "options": list(ARTICLES),
+        "accents": {article: article for article in ARTICLES},
+    }
+    if muted:
+        wrong = [article for article in ARTICLES if article != card["answer"]]
+        input_spec["muted"] = [random.choice(wrong)]
+    spec = {
         "hint": card["translation"],
         "prompt": card["word"],
         # место слева от слова, которое движок занимает заранее: после ответа
         # туда встанет артикль, и строка не должна от этого сдвинуться. Какой
         # из вариантов шире, знает плагин, а не движок
         "reserve": max(ARTICLES, key=len),
-        "input": {
-            "type": "choices",
-            "options": list(ARTICLES),
-            "accents": {article: article for article in ARTICLES},
-        },
+        "input": input_spec,
     }
+    if prop:
+        spec["notes"] = [{"text": prop, "weight": "loud", "detail": prop_ru}]
+    return spec
+
+
+def _reverse(card, others):
+    """Обратный выбор: дан артикль, выбрать из трёх слов своё.
+
+    Легче холодного выбора из трёх, потому что решается **исключением**: род
+    двух чужих слов вспоминается, и своё остаётся последним. Чем хуже знаешь
+    отвлекающих, тем меньше это помогает, — потому пожелание «виденные»
+    движок и снимает последним.
+
+    Цвета рода у вариантов нет нарочно: он раскрасил бы ответ прямо на
+    кнопках. Роль называется только у артикля в вопросе — он и так дан.
+    """
+    options = [other["word"] for other in others] + [card["word"]]
+    random.shuffle(options)
+    return {
+        "hint": REVERSE_HINT,
+        "prompt": card["answer"],
+        "shown": {"lead": "", "text": card["answer"]},
+        "accent": card["answer"],
+        "input": {"type": "choices", "options": options},
+    }
+
+
+def _showing(card):
+    """Показ: слово с артиклем, перевод, пример — и «понятно» вместо ответа.
+
+    Это первая встреча со словом (или встреча после провала), и она нарочно
+    ничего не проверяет. Пример здесь тот же, что и в отклике на ответ: он не
+    разбор, а вторая встреча со словом, и на показе нужен ровно так же.
+    """
+    spec = {
+        "hint": card["translation"],
+        "prompt": card["word"],
+        "reserve": max(ARTICLES, key=len),
+        # слово сразу со своим артиклем и своим цветом: прятать тут нечего
+        "shown": {"lead": card["answer"], "text": card["word"]},
+        "accent": card["answer"],
+        "input": {"type": "ack", "label": "Понятно"},
+        "notes": [],
+    }
+    if card["plural"]:
+        spec["notes"].append({"text": f"{PLURAL} {card['plural']}",
+                              "accent": PLURAL_ACCENT, "weight": "muted"})
+    if card["example"]:
+        spec["notes"].append({"text": card["example"], "weight": "loud",
+                              "detail": card.get("example_ru", "")})
+    return spec
 
 
 def subject(card):
@@ -284,13 +504,19 @@ def check(card, answer):
     строку на каждую карточку ради случая, когда её никто не читает.
     """
     article, word = card["answer"], card["word"]
-    correct = answer.strip().lower() == article
+    given = answer.strip().lower()
+    # спрашивали в обратную сторону (ступень 3), если ответили словом, а не
+    # артиклем. Направление видно по самому ответу, и передавать ступень сюда
+    # незачем: существительное с `der/die/das` не совпадает
+    forward = given in ARTICLES
+    correct = given == article if forward else given == word.lower()
     feedback = f"{article} {word}"
     if card["translation"]:
         feedback += f" — {card['translation']}"
     result = {
         "correct": correct,
-        "answer": article,
+        # что следовало нажать: на прямом вопросе артикль, на обратном слово
+        "answer": article if forward else word,
         "accent": article,
         "reveal": {"lead": article, "text": word},
         "feedback": feedback,
@@ -300,5 +526,9 @@ def check(card, answer):
         result["notes"].append({"text": f"{PLURAL} {card['plural']}",
                                 "accent": PLURAL_ACCENT, "weight": "muted"})
     if card["example"]:
-        result["notes"].append({"text": card["example"], "weight": "loud"})
+        # перевод не строкой рядом, а **под нажатием**: на экране он нужен не
+        # каждому и не всегда — немецкую фразу сперва читают, — а вторая строка
+        # под каждой карточкой стоит всем и всегда
+        result["notes"].append({"text": card["example"], "weight": "loud",
+                                "detail": card.get("example_ru", "")})
     return result

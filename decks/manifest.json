@@ -1,17 +1,17 @@
 {
-  "version": 26,
+  "version": 27,
   "plugins": [
     {
       "name": "articles",
       "url": "plugins/articles.py",
-      "version": 16,
-      "sha256": "b85ba2bace86df98b0aceb5d6ea75d7891a3a7079f7cbfb7fff03e37f258e04a"
+      "version": 20,
+      "sha256": "678b1de8440c75ac1c9f25880d1413ca7aceacc89d526c645c9db568420be22d"
     },
     {
       "name": "verbs",
       "url": "plugins/verbs.py",
-      "version": 7,
-      "sha256": "b2d4945b9d3b025317f994a36bfecabf3b094024033dbfc518e50bf781318147"
+      "version": 10,
+      "sha256": "60bf941c6f98a2d9f0c45f21902aa4b29979f9bb41bb76e41920131e2ff8ee1a"
     }
   ],
   "feedback": {
