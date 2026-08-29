@@ -16,5 +16,6 @@ CC BY (требует только упоминания), и при выносе
 | Tatoeba deu | CC BY 2.0 FR | 934 |
 | kaikki-en | CC BY-SA 4.0 | 32682 |
 | kaikki-ru | CC BY-SA 4.0 | 2129 |
+| linguee | Linguee examples | 58 |
 | tatoeba | CC BY 2.0 FR | 3631 |
 | рука | своё | 78 |

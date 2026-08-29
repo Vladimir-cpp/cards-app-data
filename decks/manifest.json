@@ -1,11 +1,11 @@
 {
-  "version": 27,
+  "version": 33,
   "plugins": [
     {
       "name": "articles",
       "url": "plugins/articles.py",
-      "version": 20,
-      "sha256": "678b1de8440c75ac1c9f25880d1413ca7aceacc89d526c645c9db568420be22d"
+      "version": 25,
+      "sha256": "42e8f10c4c8c1b8a4533c9b316b0a797b50497c071df79a1ed9672011d223514"
     },
     {
       "name": "verbs",
